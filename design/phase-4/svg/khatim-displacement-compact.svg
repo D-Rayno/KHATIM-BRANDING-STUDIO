@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Displacement Event — compact mark</title>
+<desc id="desc">A compact rhombic field with a single filled displaced unit.</desc>
+<g fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="miter">
+<path d="M64 14l22 22-22 22-22-22z"/>
+<path d="M36 42l22 22-22 22-22-22z"/>
+<path d="M92 42l22 22-22 22-22-22z"/>
+<path d="M64 70l22 22-22 22-22-22z"/>
+</g>
+<path d="M64 38l13 13-13 13-13-13z" fill="currentColor"/>
+</svg>
