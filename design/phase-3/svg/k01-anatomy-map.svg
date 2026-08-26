@@ -1,0 +1,79 @@
+<!-- EXPLORATION STUDY — NOT FINAL -->
+<!-- k01: shared anatomical grid — خاتم (skeleton) vs KHATIM (skeleton) on a 45° rhombic module -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" width="960" height="340">
+  <!-- 45° rhombic module grid (faint) -->
+  <g stroke="#d0d0d0" stroke-width="0.5">
+    <g transform="translate(40,40)">
+      <!-- rhombic lattice -->
+      <line x1="0" y1="0" x2="280" y2="280"/>
+      <line x1="50" y1="0" x2="280" y2="230"/>
+      <line x1="100" y1="0" x2="280" y2="180"/>
+      <line x1="150" y1="0" x2="280" y2="130"/>
+      <line x1="200" y1="0" x2="280" y2="80"/>
+      <line x1="250" y1="0" x2="280" y2="30"/>
+      <line x1="0" y1="0" x2="280" y2="280" transform="translate(0,-280) scale(1,-1)"/>
+    </g>
+  </g>
+
+  <!-- LEFT: Latin skeleton KHATIM — all straight strokes -->
+  <g stroke="#111" stroke-width="4" fill="none" stroke-linecap="square">
+    <!-- K -->
+    <line x1="70" y1="70" x2="70" y2="180"/>
+    <line x1="70" y1="125" x2="108" y2="70"/>
+    <line x1="82" y1="112" x2="112" y2="180"/>
+    <!-- H -->
+    <line x1="140" y1="70" x2="140" y2="180"/>
+    <line x1="172" y1="70" x2="172" y2="180"/>
+    <line x1="140" y1="125" x2="172" y2="125"/>
+    <!-- A -->
+    <line x1="204" y1="180" x2="220" y2="70"/>
+    <line x1="236" y1="180" x2="220" y2="70"/>
+    <line x1="210" y1="145" x2="230" y2="145"/>
+    <!-- T -->
+    <line x1="296" y1="70" x2="296" y2="180"/>
+    <line x1="280" y1="70" x2="312" y2="70"/>
+    <!-- I -->
+    <line x1="344" y1="70" x2="344" y2="180"/>
+    <!-- M -->
+    <line x1="372" y1="180" x2="372" y2="70"/>
+    <line x1="372" y1="70" x2="390" y2="140"/>
+    <line x1="390" y1="140" x2="408" y2="70"/>
+    <line x1="408" y1="70" x2="408" y2="180"/>
+  </g>
+  <!-- Latin metrics: cap-height + baseline -->
+  <g stroke="#888" stroke-width="1" stroke-dasharray="4 3">
+    <line x1="50" y1="70" x2="430" y2="70"/>
+    <line x1="50" y1="180" x2="430" y2="180"/>
+  </g>
+  <text x="52" y="200" font-family="monospace" font-size="11" fill="#666">uniform cap-height · zero curves in caps</text>
+
+  <!-- RIGHT: Arabic skeleton خاتم — letterforms as strokes -->
+  <g stroke="#111" stroke-width="4" fill="none" stroke-linecap="round">
+    <!-- خ initial: open bowl rising, nuqta above -->
+    <path d="M 800 180 Q 800 120 845 120 Q 870 120 878 150"/>
+    <!-- ا alif: full vertical -->
+    <path d="M 770 90 L 770 180"/>
+    <!-- ت medial: two teeth at base, two nuqta above -->
+    <path d="M 700 180 L 700 150 M 714 180 L 714 150"/>
+    <!-- م final: bowl with descending loop -->
+    <path d="M 640 150 Q 620 150 620 165 Q 620 178 638 178 Q 645 178 645 150 M 645 178 Q 645 205 620 205"/>
+  </g>
+  <!-- nuqta points (rhombic, 45°) -->
+  <g fill="#c00">
+    <path d="M 854 96 l 8 -8 8 8 -8 8 z"/>
+    <path d="M 690 118 l 7 -7 7 7 -7 7 z"/>
+    <path d="M 707 118 l 7 -7 7 7 -7 7 z"/>
+  </g>
+  <!-- Arabic metrics: alif height + baseline -->
+  <g stroke="#888" stroke-width="1" stroke-dasharray="4 3">
+    <line x1="560" y1="90" x2="890" y2="90"/>
+    <line x1="560" y1="180" x2="890" y2="180"/>
+  </g>
+  <text x="560" y="200" font-family="monospace" font-size="11" fill="#666">variable letter heights · RTL · 3 nuqta (red)</text>
+
+  <!-- Cross-script alignment hypothesis -->
+  <line x1="50" y1="180" x2="890" y2="180" stroke="#000" stroke-width="1"/>
+  <text x="430" y="188" font-family="monospace" font-size="10" fill="#000">shared baseline</text>
+  <text x="70" y="60" font-family="monospace" font-size="11" fill="#000">cap = 0.78 × alif-height (optical)</text>
+  <path d="M 430 90 L 440 90 M 430 70 L 440 70" stroke="#666" stroke-width="0.8"/>
+</svg>

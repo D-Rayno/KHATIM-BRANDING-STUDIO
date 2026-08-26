@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640">
+  <title>Finalist A — Displacement Event (STUDY — EXPLORATION — NOT FINAL)</title>
+  <defs>
+    <path id="dot" d="M 0 -14 L 14 0 L 0 14 L -14 0 Z" fill="none" stroke="#111" stroke-width="4"/>
+  </defs>
+  <rect width="640" height="640" fill="#fafafa"/>
+  <!-- 45° rhombic nuqta lattice, u = 40, pitch = 2u = 80 -->
+  <g id="lattice">
+    <use href="#dot" x="120" y="120"/><use href="#dot" x="200" y="120"/><use href="#dot" x="280" y="120"/><use href="#dot" x="360" y="120"/><use href="#dot" x="440" y="120"/><use href="#dot" x="520" y="120"/>
+    <use href="#dot" x="120" y="200"/><use href="#dot" x="200" y="200"/><use href="#dot" x="280" y="200"/><use href="#dot" x="360" y="200"/><use href="#dot" x="440" y="200"/><use href="#dot" x="520" y="200"/>
+    <use href="#dot" x="120" y="280"/><use href="#dot" x="200" y="280"/><use href="#dot" x="280" y="280"/><use href="#dot" x="360" y="280"/><use href="#dot" x="440" y="280"/><use href="#dot" x="520" y="280"/>
+    <use href="#dot" x="120" y="360"/><use href="#dot" x="200" y="360"/><use href="#dot" x="280" y="360"/><use href="#dot" x="440" y="360"/><use href="#dot" x="520" y="360"/>
+    <use href="#dot" x="120" y="440"/><use href="#dot" x="200" y="440"/><use href="#dot" x="280" y="440"/><use href="#dot" x="360" y="440"/><use href="#dot" x="440" y="440"/><use href="#dot" x="520" y="440"/>
+    <use href="#dot" x="120" y="520"/><use href="#dot" x="200" y="520"/><use href="#dot" x="280" y="520"/><use href="#dot" x="360" y="520"/><use href="#dot" x="440" y="520"/><use href="#dot" x="520" y="520"/>
+    <!-- the pressed unit: one filled displacement at (360,360) -->
+    <path d="M 360 346 L 374 360 L 360 374 L 346 360 Z" fill="#111"/>
+  </g>
+  <text x="320" y="600" font-family="monospace" font-size="16" fill="#555" text-anchor="middle">FINALIST A — DISPLACEMENT EVENT — STUDY / EXPLORATION / NOT FINAL</text>
+</svg>

@@ -197,3 +197,13 @@
 | Date | Question # | Resolution | Evidence |
 |---|---|---|---|
 | — | — | — | — |
+
+---
+
+## Phase 3 Addendum (2026-08-26)
+
+New questions raised by visual exploration (Priority 2):
+
+1. **Geometry survival at 16px** — Preferred direction A (Displacement Event) fails 16px as currently drawn; must be re-constructed per Agent 07 module before Phase 4 gate. Status: 🟢 Open — Phase 4 blocker.
+2. **System-level defensibility** — Red team + CD anchored A's defensibility at system level (nuqta discipline + use consistency), not form level. Requires legal review before any lock. Status: 🟢 Open.
+3. **Bilingual module parity** — 5u vs 5.5u alif/cap parity; KH-pair micro-compression vs ligature at 16px; Latin tracking survival at UI sizes. Status: 🟢 Open.

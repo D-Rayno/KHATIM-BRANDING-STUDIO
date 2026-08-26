@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640">
+  <title>Finalist C — Axis Witness (STUDY — EXPLORATION — NOT FINAL)</title>
+  <rect width="640" height="640" fill="#fafafa"/>
+  <!-- tripartite: two flanking masses (Party A, Party B) resolved by a central third (Witness); all diagonals use dx = dy (true 45°) -->
+  <g fill="#111">
+    <rect x="170" y="210" width="90" height="220"/>
+    <rect x="380" y="210" width="90" height="220"/>
+    <path d="M 320 150 L 370 320 L 320 490 L 270 320 Z"/>
+  </g>
+  <text x="320" y="600" font-family="monospace" font-size="16" fill="#555" text-anchor="middle">FINALIST C — AXIS WITNESS — STUDY / EXPLORATION / NOT FINAL</text>
+</svg>

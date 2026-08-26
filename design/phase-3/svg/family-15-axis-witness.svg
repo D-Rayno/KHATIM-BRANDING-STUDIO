@@ -1,0 +1,7 @@
+<!-- EXPLORATION STUDY — NOT FINAL -->
+<!-- F-15 THE AXIS WITNESS — two parties mirrored across an impartial central axis (the third party) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect x="29.5" y="8" width="5" height="48" fill="#111111"/>
+  <polyline points="10,20 20,32 10,44" fill="none" stroke="#111111" stroke-width="4" stroke-linecap="square"/>
+  <polyline points="54,20 44,32 54,44" fill="none" stroke="#111111" stroke-width="4" stroke-linecap="square"/>
+</svg>

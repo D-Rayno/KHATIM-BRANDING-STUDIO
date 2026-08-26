@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640">
+  <title>Finalist B — Void Core (STUDY — EXPLORATION — NOT FINAL)</title>
+  <rect width="640" height="640" fill="#fafafa"/>
+  <!-- single silhouette, counter-driven (evenodd); 16px rule: 8px hole / 4px walls scale-safe -->
+  <path fill-rule="evenodd" fill="#111" d="M 160 160 H 480 V 480 H 160 Z M 320 285 L 355 320 L 320 355 L 285 320 Z"/>
+  <text x="320" y="600" font-family="monospace" font-size="16" fill="#555" text-anchor="middle">FINALIST B — VOID CORE — STUDY / EXPLORATION / NOT FINAL</text>
+</svg>

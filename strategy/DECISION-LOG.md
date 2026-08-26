@@ -20,6 +20,7 @@
 | D-008 | 2026-08-26 | Tone: Clear, calm, exact, evidence-led | WORKING | REVERSIBLE |
 | D-009 | 2026-08-26 | Phased Positioning Strategy (MVP vs Infrastructure) | APPROVED | IRREVERSIBLE |
 | D-010 | 2026-08-26 | Mandatory Buyer Validation (Suspend final positioning lock) | APPROVED | IRREVERSIBLE |
+| D-011 | 2026-08-26 | Phase 3 exploration outcome: preferred = Displacement Event (EXPLORATION — not locked); secondary = Void Core derivative; killed = Axis Witness mark (layout rule survives) | WORKING | REVERSIBLE |
 
 ---
 

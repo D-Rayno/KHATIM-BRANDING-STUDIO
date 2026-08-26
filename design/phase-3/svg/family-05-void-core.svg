@@ -1,0 +1,5 @@
+<!-- EXPLORATION STUDY — NOT FINAL -->
+<!-- F-05 THE VOID CORE — the deboss abstracted to pure negative space; the mark is the hole -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <path fill="#111111" fill-rule="evenodd" d="M56,42 L42,56 L22,56 L8,42 L8,22 L22,8 L42,8 L56,22 Z M32,23 L41,32 L32,41 L23,32 Z"/>
+</svg>
