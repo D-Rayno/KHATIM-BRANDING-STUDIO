@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+<title id="title">Khatim identity development board — provisional</title>
+<rect width="1200" height="800" fill="#F4F2ED"/>
+<g fill="#111111">
+  <text x="72" y="80" font-family="Arial, sans-serif" font-size="30" font-weight="700">KHATIM — IDENTITY DEVELOPMENT</text>
+  <text x="72" y="112" font-family="Arial, sans-serif" font-size="14">DISPLACEMENT EVENT / PROVISIONAL / PHASE 4</text>
+</g>
+<!-- primary construction -->
+<g transform="translate(70 180)" fill="none" stroke="#111111" stroke-width="3">
+  <path d="M90 0l45 45-45 45-45-45zM180 0l45 45-45 45-45-45zM0 90l45 45-45 45-45-45zM180 90l45 45-45 45-45-45zM90 180l45 45-45 45-45-45z"/>
+</g>
+<path d="M160 250l32 32-32 32-32-32z" fill="#111111"/>
+<!-- compact -->
+<g transform="translate(420 190)" fill="none" stroke="#111111" stroke-width="5">
+  <path d="M70 0l38 38-38 38-38-38zM22 48l38 38-38 38-38-38zM118 48l38 38-38 38-38-38zM70 96l38 38-38 38-38-38z"/>
+</g>
+<path d="M490 224l23 23-23 23-23-23z" fill="#111111"/>
+<!-- layout witness rule -->
+<g transform="translate(760 180)" stroke="#111111" fill="none" stroke-width="2">
+ <rect x="0" y="0" width="330" height="190"/>
+ <line x1="110" y1="0" x2="110" y2="190"/><line x1="220" y1="0" x2="220" y2="190"/>
+ <line x1="0" y1="145" x2="330" y2="145"/>
+</g>
+<g fill="#111111" font-family="Arial, sans-serif" font-size="16">
+ <text x="790" y="215">PARTY A</text><text x="900" y="215">WITNESS</text><text x="1010" y="215">PARTY B</text>
+ <text x="72" y="540" font-size="22" font-weight="700">SYSTEM RULES</text>
+ <text x="72" y="575">01  State-change is the primary visual verb.</text>
+ <text x="72" y="605">02  The rhombic field is proportion, not decoration.</text>
+ <text x="72" y="635">03  Evidence typography belongs to product behavior.</text>
+ <text x="72" y="665">04  Monochrome is the first proof.</text>
+ <text x="72" y="695">05  The name, palette and typeface remain provisional.</text>
+</g>
+</svg>
