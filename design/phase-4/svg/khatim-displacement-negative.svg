@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Displacement Event — negative-space study</title>
+<desc id="desc">A four-cell field whose central intersection is defined by absence rather than fill.</desc>
+<rect width="256" height="256" fill="currentColor"/>
+<g fill="Canvas">
+<path d="M128 24l52 52-52 52-52-52z"/>
+<path d="M76 76l52 52-52 52-52-52z"/>
+<path d="M180 76l52 52-52 52-52-52z"/>
+<path d="M128 128l52 52-52 52-52-52z"/>
+</g>
+<path d="M128 82l46 46-46 46-46-46z" fill="currentColor"/>
+</svg>
