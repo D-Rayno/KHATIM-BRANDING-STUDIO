@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Displacement Event — master identity candidate</title>
+  <desc id="desc">A disciplined rhombic field with one filled unit representing a permanent state change.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="miter">
+    <path d="M32 32h28l14 14 14-14h28l14 14 14-14h28l14 14 14-14h28"/>
+    <path d="M32 60l14 14-14 14v28l14 14-14 14v28l14 14-14 14v28"/>
+    <path d="M60 32l14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14"/>
+    <path d="M88 32l14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14"/>
+    <path d="M116 32l14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14"/>
+    <path d="M144 32l14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14"/>
+    <path d="M172 32l14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14"/>
+    <path d="M200 32l14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14"/>
+    <path d="M228 32v28l-14 14 14 14v28l-14 14 14 14v28l-14 14 14 14v28"/>
+  </g>
+  <!-- single decisive state change -->
+  <path d="M130 116l14 14-14 14-14-14z" fill="currentColor"/>
+</svg>
