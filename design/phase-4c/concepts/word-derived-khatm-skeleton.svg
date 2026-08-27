@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">KHATIM — word-derived anatomy: khatm seals by its crown-dot and falling tail</title>
+  <desc id="d">EXPLORATION. A bold geometric skeleton of the word khatm (ختم) isolating the three loaded structural facts: (1) the kha crown-dot that decides the first letter, (2) the alif pillar and ta twin teeth with their own dots, (3) the final meem closed bowl whose descender tail falls and seals the word. Structural analysis, not a logo.</desc>
+  <!--
+    Phase 4C EXPLORATION — word-derived skeleton of khatm (ختم), geometry only, NOT calligraphy.
+    Reads right-to-left. Dots (crown of 3: one over kha, two over ta) are the word's
+    "attestation" register; the descending meem tail is the "sealing" completion.
+    The word's begin (witness dot) and end (falling seal) are its two loaded anchors.
+    DO NOT SHIP — anatomical study scaffolding.
+  -->
+  <g fill="currentColor">
+    <!-- kha: one dot + bold ascending-tooth body (starts the word, rightmost) -->
+    <path d="M180 96 L180 200 H242 V96 Z" />
+    <path d="M180 96 L216 40 L236 56 L206 96 Z" />
+    <path d="M198 24 L210 36 L198 48 L186 36 Z" />
+    <!-- alif: the pillar -->
+    <path d="M140 40 H156 V200 H140 Z" />
+    <!-- ta: twin teeth + two dots above -->
+    <path d="M96 120 H132 V200 H96 Z" />
+    <path d="M52 120 H88 V200 H52 Z" />
+    <path d="M78 84 L92 98 L78 112 L64 98 Z" />
+    <path d="M112 76 L126 90 L112 104 L98 90 Z" />
+    <!-- meem: closed bowl + falling descender tail -->
+    <path d="M8 200 H44 V150 L8 150 Z" />
+    <path d="M28 150 C 28 138 44 138 44 150 Z" />
+  </g>
+</svg>

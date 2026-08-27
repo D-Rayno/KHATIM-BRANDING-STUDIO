@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Principle 3 — The Crown of Dots / the 1-2-0 Register</title>
+  <desc id="d">EXPLORATION. A baseline bearing its content, over which a drifting register of marks sits: one dot, then two dots — the 1-2 attestation signature of خاتم, two parties marked toward/under one witness. NOT a logo.</desc>
+  <!--
+    EXPLORATION — Principle 3 (The Crown of Dots / the 1-2-0 register).
+    Anatomy sketch on the 45-deg lattice (u=16, viewBox 256). Scaffolding only.
+      - A word-like horizontal body along the baseline.
+      - Above, at the I'jam crown register: ONE dot, then TWO dots — the count signature of خاتم
+        (خ=1, then ت=2, then م=0). The pair and the single hold a RELATIONAL geometry: two parties
+        are resolved toward / marked under the one witness.
+    Load-bearing point: the dots are COUNT-bearing and POSITION-bearing (orthographic disambiguation),
+    never scattered ornament/network nodes. NOT a logo; copy the principle, not these strokes.
+  -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <!-- word-like horizontal body along the baseline -->
+    <path d="M24 200 H232 V184 Q232 160 208 160 H160 Q144 160 144 176 Q144 184 136 184 H120 Q104 184 104 172 Q104 160 88 160 H64 Q44 160 40 172 L40 184 L64 184 H72 Q72 176 80 176 Q88 176 88 182 H120 Q136 182 140 184 H24 Z" />
+    <!-- the ONE witness dot (single nuqta, crown register) -->
+    <path d="M80 96 L88 104 L80 112 L72 104 Z" />
+    <!-- the TWO party dots (crown register, paired) -->
+    <path d="M168 96 L176 104 L168 112 L160 104 Z" />
+    <path d="M200 96 L208 104 L200 112 L192 104 Z" />
+  </g>
+</svg>

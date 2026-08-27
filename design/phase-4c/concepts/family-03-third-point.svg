@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">KHATIM — The Third Point (comparison family)</title>
+  <desc id="d">EXPLORATION. Two bold strokes (the two parties) converging to an apex resolved by a single upper point (the witness). Abstract triad, not a container. Development candidate — NOT final.</desc>
+  <!--
+    Phase 4C EXPLORATION — Family 3 (The Third Point). Comparison candidate.
+    Two 45-deg wedge strokes meet at a shared apex (128,84); ONE nuqta diamond
+    seated above the apex at the witness position (128,44). The dot is the third
+    point that resolves the dyad. Monochrome currentColor. NOT final.
+  -->
+  <g fill="currentColor">
+    <path d="M128 84 L64 220 L128 220 Z" />
+    <path d="M128 84 L128 220 L192 220 Z" />
+    <path d="M128 32 L144 48 L128 64 L112 48 Z" />
+  </g>
+</svg>

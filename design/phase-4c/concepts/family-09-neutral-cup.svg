@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">KHATIM — The Neutral Cup (I'jam toggle, comparison family)</title>
+  <desc id="d">EXPLORATION. The bare h-ha / kha body rendered twice: left WITHOUT its dot (unwitnessed, collapses to ha) and right WITH one positional dot ABOVE (witnessed kha). The dot is the state — presence of the single point is the attestation. Development candidate — NOT final.</desc>
+  <!--
+    Phase 4C EXPLORATION — Family 9 (Neutral Cup I'jam toggle). Comparison candidate.
+    Same bold body twice; only the one upper nuqta differs (left absent, right present).
+    Emphasizes the verification-state reading but is a diptych, not a single mark.
+    Monochrome currentColor. NOT final.
+  -->
+  <g fill="currentColor">
+    <path d="M40 200 H120 V120 Q120 96 140 96 Q160 96 160 120 V144 H152 V128 Q152 120 160 120 Q168 120 168 128 V176 H40 Z" />
+    <path d="M128 208 H208 V128 Q208 104 228 104 Q248 104 248 128 V152 H240 V136 Q240 128 248 128 Q256 128 256 136 V184 H128 Z" />
+    <path d="M236 64 L248 76 L236 88 L224 76 Z" />
+  </g>
+</svg>

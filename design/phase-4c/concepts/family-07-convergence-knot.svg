@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">KHATIM — The Convergence Knot (comparison family)</title>
+  <desc id="d">EXPLORATION. Evidence edges streaming to a single off-center nuqta point (the vanishing-point witness) where all lines resolve. Not a radial spokes/radiation cliche, but a knot. Development candidate — NOT final.</desc>
+  <!--
+    Phase 4C EXPLORATION — Family 7 (Convergence Knot). Comparison candidate.
+    Three bold strokes converge asymmetrically at one off-center nuqta knot (164,124),
+    weighted left-low for tension. Nuqta diamond 1.5u at the knot. Monochrome currentColor.
+    NOT final.
+  -->
+  <g fill="currentColor">
+    <path d="M164 124 L40 220 L88 220 Z" />
+    <path d="M164 124 L40 60 L88 60 Z" />
+    <path d="M164 124 L220 60 L220 188 Z" />
+    <path d="M164 108 L180 124 L164 140 L148 124 Z" />
+  </g>
+</svg>

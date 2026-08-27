@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Principle 1 — The Positional Dot that Decides</title>
+  <desc id="d">EXPLORATION. A neutral open cup whose identity is decided by one dot seated above at the I'jam position: dot-present = attested خ (witnessed); dot-absent = the same cup collapses into unwitnessed ح. NOT a logo.</desc>
+  <!--
+    EXPLORATION — Principle 1 (The Positional Dot that Decides / the attestation bit).
+    Anatomy sketch on the inherited 45-deg lattice (u=16, viewBox 256). Scaffolding only.
+      - LEFT  : the neutral cup WITHOUT the dot  -> reads unwitnessed ح (collapses, incomplete)
+      - RIGHT : the SAME cup WITH one dot seated above it at the I'jam crown register -> reads attested خ
+    The two cups are IDENTICAL bodies; only the presence/position of the crown nuqta differs.
+    Load-bearing point: the cup is neutral/incomplete without the dot; the dot's presence-and-position
+    is the event that finishes it into the correct letter. Remove the dot -> different letter (ح).
+    Monochrome currentColor. NOT a logo; copy the principle, not these strokes.
+  -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <!-- shared neutral cup body, duplicated left and right for the before/after reading -->
+    <path d="M24 200 H72 V136 Q72 116 88 116 Q104 116 104 136 V152 H88 V138 Q88 130 96 130 Q104 130 104 138 V184 H24 Z" />
+    <path d="M160 200 H208 V136 Q208 116 224 116 Q240 116 240 136 V152 H224 V138 Q224 130 232 130 Q240 130 240 138 V184 H160 Z" />
+    <!-- the one load-bearing nuqta (1u=16 diamond) at the I'jam crown register ABOVE the RIGHT cup only -->
+    <path d="M224 72 L232 80 L224 88 L216 80 Z" />
+  </g>
+</svg>

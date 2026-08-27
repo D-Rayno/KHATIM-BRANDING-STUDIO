@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">KHATIM — The Witnessed Letter (cross-glyph K ∩ خ)</title>
+  <desc id="d">EXPLORATION. One bold angular glyph reading as both Latin K and Arabic kha (خ): a weighty stem with two 45-degree arms, crowned by a single positional nuqta at the I'jam register. The dot decides the letter — present it is witnessed kha and the mark is sealed; absent it is an unwitnessed letter. Development candidate — NOT final.</desc>
+  <!--
+    Phase 4C EXPLORATION — Family 1 lead (The Witnessed Letter).
+    Construction on 45-deg lattice (u=16, viewBox 256). Monochrome currentColor.
+    Stem 124..156 (32px), y 60..204. Upper arm triangle from stem right-edge (156,96..148)
+    to apex (232,44). Lower arm triangle from (156,152..204) to apex (232,208).
+    Single nuqta diamond (1.5u=24) at I'jam register above the stem (140,28..52).
+    Red-team constraint honored: the dot sits ABOVE (graphemic / I'jam), never a check/tick.
+    DO NOT SHIP AS FINAL.
+  -->
+  <g fill="currentColor">
+    <path d="M124 60 H156 V204 H124 Z
+             M156 96 L156 148 L232 44 Z
+             M156 152 L156 204 L232 208 Z" />
+    <path d="M140 28 L152 40 L140 52 L128 40 Z" />
+  </g>
+</svg>

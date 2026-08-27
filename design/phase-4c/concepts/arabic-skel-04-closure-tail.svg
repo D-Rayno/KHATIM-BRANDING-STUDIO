@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Principle 4 — The Closed Bowl by a Falling Tail</title>
+  <desc id="d">EXPLORATION. A form that closes internally, then drops one terminal stroke below the baseline to anchor it — the completion seal (ختم = to close/to seal/to complete). NOT a logo.</desc>
+  <!--
+    EXPLORATION — Principle 4 (The Closed Bowl by a Falling Tail / the completion seal).
+    Anatomy sketch on the 45-deg lattice (u=16, viewBox 256). Scaffolding only.
+      - An open record resolves into a closed bowl (internal closure, not an external ring).
+      - A terminal tail drops BELOW the baseline and sweeps back: the descent IS the attestation.
+      - Mirrors the final م of خاتم: contained bowl + descender tail; root ختم = close/seal/complete.
+    Load-bearing point: the form does not COMPLETE until the terminal falls and locks. The tail is
+    structural closure, never a decorative calligraphic swirl. NOT a logo; copy the principle, not
+    these strokes.
+  -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <!-- the open record resolving into a closed bowl -->
+    <path d="M24 160 H104 Q128 160 128 136 Q128 112 104 112 H88 Q72 112 72 128 Q72 140 88 140 H104 Q112 140 112 132 H104 Q96 132 96 140 H24 Z" />
+    <!-- the falling terminal tail: drops below the baseline and sweeps back, anchoring the seal -->
+    <path d="M128 160 H232 V168 H176 Q176 192 208 216 H184 Q156 196 152 168 Q152 160 160 160 Z" />
+    <!-- baseline reference (the line the bodies sit on / the tail falls through) -->
+    <path d="M24 200 H232 V208 H24 Z" />
+  </g>
+</svg>

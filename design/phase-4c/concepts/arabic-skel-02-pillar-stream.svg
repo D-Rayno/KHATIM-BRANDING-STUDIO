@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Principle 2 — The Pillar in the Stream</title>
+  <desc id="d">EXPLORATION. A low, connected, horizontal stroke-stream interrupted by ONE vertical pillar rising to full height, standing off-center — the alif as the witness's station inside the flow of a record. NOT a logo.</desc>
+  <!--
+    EXPLORATION — Principle 2 (The Pillar in the Stream / the witness's station).
+    Anatomy sketch on the 45-deg lattice (u=16, viewBox 256). Scaffolding only.
+      - The horizontal linked bodies = the connected Arabic stream (joined script on the baseline).
+      - The single vertical staff = the alif, rising to full height, OFF-CENTER (as alif sits between
+        خ and ت in خاتم) — one monumental column standing inside the flow of the record.
+    Load-bearing point: horizontal-dominant Arabic current interrupted by a lone full-height pillar.
+    It must read as a STATION among the flow, never a centered monogram crossbar. NOT a logo; copy
+    the principle, not these strokes.
+  -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <!-- the horizontal connected stream: a low rope of linked bodies along the baseline -->
+    <path d="M24 200 H232 V184 Q232 160 208 160 H96 Q72 160 72 184 L64 184 Q48 184 48 200 L48 200 H40 Q28 200 28 188 Q28 180 40 180 H56 Q68 180 68 168 Q68 156 84 156 Q100 156 100 170 H208 Q232 170 232 192 V200 H24 Z" />
+    <!-- the single OFF-CENTER alif pillar rising to full height -->
+    <path d="M120 200 H136 V120 H120 Z" />
+  </g>
+</svg>
