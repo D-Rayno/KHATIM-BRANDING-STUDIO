@@ -1,0 +1,7 @@
+<!-- KHATIM — Wordmark Study (Arabic: خاتم, system fallback) -->
+<!-- DEVELOPMENT CANDIDATE / NOT FINAL. Final Arabic type not licensed. Uses system stack. -->
+<!-- Per Agent 04: alif height = 5u (paired with Latin cap height), shared baseline, modern sans. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="خاتم wordmark study">
+  <desc>FONT PLACEHOLDER — DO NOT SHIP. System Arabic font stands in for the unlicensed final face. See PHASE-4-RED-TEAM-REVIEW.md Finding 2.</desc>
+  <text x="0" y="60" font-family="'Geeza Pro','Tahoma','Segoe UI',sans-serif" font-size="64" font-weight="600" fill="#111111">خاتم</text>
+</svg>

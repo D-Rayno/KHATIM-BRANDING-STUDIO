@@ -137,9 +137,22 @@
 
 ---
 
+## Phase 4 Outcome (2026-08-27) — Identity Rebuild (takeover)
+
+- Takeover audit (`strategy/PHASE-4-TAKEOVER-AUDIT.md`) verdict: **REBUILD** — preserve the displacement idea + system discipline; re-derive geometry from first principles. Six specialist agents rejected the old open-lattice master.
+- **Lead mark: "The Impression"** (Candidate A) — bounded chamfered octagon (matrix) on the 45° rhombic nuqta lattice, centered 4u rhombic counter (impression), single perceivable nuqta at the optical center (attestation). Silhouette, counter, and nuqta decode the same displacement story the old mark failed to tell.
+- **Locked architecture principles (10):** one base unit u; 45° nuqta lattice load-bearing only; expanded fill, never bare stroke; one decisive silhouette; the impression IS the displacement AND the optical center; perceivable nuqta IS the cultural specificity; one gesture per surface (one verb: the press); monochrome-first; reverse-native (zero-edit reverse); name-agnostic and culture-true.
+- **Module math (verified):** master 256 viewBox, u=16, octagon bbox 8u (128) centered, chamfer 2u, counter 4u, nuqta 1u; 16px from same construction (u=2, counter 8, walls 4, chamfer 4, nuqta 1.5). All vertices on u=16 lattice.
+- **Production set built** in `design/phase-4/`: `svg/`, `responsive/`, `patterns/`, `wordmarks/`, `boards/`, `documentation/`, plus superseded old displacement set in `deprecated/`.
+- **Red-team passed (no CRITICAL).** MAJOR finding = wordmark uses placeholder fonts (tracked open). Nuqta-drop at small sizes documented as an optical decision, not a new shape. Reverse = explicit two-color; master = currentColor (documented contract).
+- **NOT locked (remain open):** name clearance (Codegic), final wordmark typefaces, final color system, customer-facing "Sovereign Witness" language.
+
+---
+
 ## Change Log
 
 | Date | Change | Author |
 |---|---|---|
 | 2026-08-26 | Initial project memory created | Brand Studio |
 | 2026-08-26 | Phase 3 exploration outcome appended (preferred/secondary/killed directions) | OpenHands Orchestrator |
+| 2026-08-27 | Phase 4 takeover outcome appended (REBUILD verdict; The Impression lead; locked principles; module math; production set; red-team pass) | OpenHands Orchestrator |

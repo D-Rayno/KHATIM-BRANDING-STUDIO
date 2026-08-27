@@ -1,0 +1,11 @@
+<!-- KHATIM — The Impression, Compact (slightly heavier walls for smaller sizes) -->
+<!-- Same construction at master scale but rendered as the canonical compact for sizes 24-48px. -->
+<!-- At small sizes the inner nuqta survives; the counter remains 50% of bbox. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — The Impression (compact)</title>
+  <desc id="d">Compact rendering of the impression, identical to the master construction. Used at sizes 24-48px where the master and 16px converge.</desc>
+  <path fill="currentColor" fill-rule="evenodd"
+        d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+           M128 96 L160 128 L128 160 L96 128 Z"/>
+  <path fill="currentColor" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+</svg>

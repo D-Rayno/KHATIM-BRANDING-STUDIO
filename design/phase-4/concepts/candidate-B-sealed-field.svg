@@ -1,0 +1,22 @@
+<!-- KHATIM — Candidate B "The Sealed Field" — DEVELOPMENT CANDIDATE / NOT FINAL -->
+<!-- A closed 3x3 rhombic field of 9 cells on the 45° nuqta lattice, bounded by an outer -->
+<!-- chamfered rhombus frame. The center cell is displaced as an impression counter, holding -->
+<!-- a perceivable calligraphic nuqta. u = 16. Field pitch 2u. Center cell 2u x 2u impression. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — The Sealed Field (candidate B)</title>
+  <desc id="d">A closed rhombic frame on the 45-degree nuqta lattice, with a centered 2u impression counter holding a calligraphic nuqta. The frame implies a 3 by 3 field; the center is the displaced unit.</desc>
+  <!-- outer frame: 6u x 6u rhombic field (single closed path, expanded fill) with a 2u impression counter (evenodd) and inner nuqta -->
+  <path fill="currentColor" fill-rule="evenodd"
+        d="M128 64 L192 128 L128 192 L64 128 Z
+           M128 112 L144 128 L128 144 L112 128 Z"/>
+  <!-- perceivable nuqta at the impression center -->
+  <path fill="currentColor" d="M128 124 L132 128 L128 132 L124 128 Z"/>
+  <!-- implied field subdivision: 4 short 45° tick lines at the midpoints of the outer frame -->
+  <!-- (subterranean grid discipline: load-bearing only, never decoration) -->
+  <g fill="currentColor">
+    <path d="M128 64 L132 68 L128 72 L124 68 Z"/>
+    <path d="M128 184 L132 188 L128 192 L124 188 Z"/>
+    <path d="M64 128 L68 132 L64 136 L60 132 Z" transform="translate(4 0)"/>
+    <path d="M192 128 L196 132 L192 136 L188 132 Z" transform="translate(-4 0)"/>
+  </g>
+</svg>

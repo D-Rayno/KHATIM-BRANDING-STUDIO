@@ -1,0 +1,66 @@
+<!-- KHATIM — Phase 4 Candidate Comparison Board (DEVELOPMENT CANDIDATE / NOT FINAL) -->
+<!-- Four candidate directions, each preserving the displacement idea but re-deriving the form. -->
+<!-- Black on white. Same scale. Same viewBox 256. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-label="Khatim candidate comparison">
+  <rect width="1280" height="360" fill="#FFFFFF"/>
+  <g font-family="Arial, sans-serif" fill="#111111">
+    <text x="40" y="36" font-size="18" font-weight="700">KHATIM — CANDIDATE COMPARISON (BLACK ON WHITE)</text>
+    <text x="40" y="58" font-size="12">Four directions, each preserving the displacement idea; form re-derived per audit prescription.</text>
+  </g>
+
+  <!-- A — The Impression -->
+  <g transform="translate(60 90)">
+    <path fill="#111111" fill-rule="evenodd"
+          d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+             M128 96 L160 128 L128 160 L96 128 Z"/>
+    <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#111111" font-size="12">
+    <text x="120" y="310" text-anchor="middle" font-weight="700">A · THE IMPRESSION</text>
+    <text x="120" y="328" text-anchor="middle">bounded octagon + rhombic void + nuqta</text>
+  </g>
+
+  <!-- B — The Sealed Field -->
+  <g transform="translate(340 90)">
+    <path fill="#111111" fill-rule="evenodd"
+          d="M128 64 L192 128 L128 192 L64 128 Z
+             M128 112 L144 128 L128 144 L112 128 Z"/>
+    <path fill="#111111" d="M128 124 L132 128 L128 132 L124 128 Z"/>
+    <g fill="#111111">
+      <path d="M128 64 L132 68 L128 72 L124 68 Z"/>
+      <path d="M128 184 L132 188 L128 192 L124 188 Z"/>
+      <path d="M68 132 L64 128 L60 132 L64 136 Z"/>
+      <path d="M188 132 L192 128 L196 132 L192 136 Z"/>
+    </g>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#111111" font-size="12">
+    <text x="400" y="310" text-anchor="middle" font-weight="700">B · THE SEALED FIELD</text>
+    <text x="400" y="328" text-anchor="middle">closed rhombic field + impression + nuqta</text>
+  </g>
+
+  <!-- C — The Witnessed Stroke -->
+  <g transform="translate(620 90)">
+    <path fill="#111111" fill-rule="evenodd"
+          d="M160 64
+             L176 64 L192 80
+             L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+             M168 80 L176 80 L168 88 Z"/>
+    <path fill="#111111" d="M152 96 L160 104 L152 112 L144 104 Z"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#111111" font-size="12">
+    <text x="680" y="310" text-anchor="middle" font-weight="700">C · THE WITNESSED STROKE</text>
+    <text x="680" y="328" text-anchor="middle">octagon + single 45° witness notch + nuqta</text>
+  </g>
+
+  <!-- D — The Displaced Column -->
+  <g transform="translate(900 90)">
+    <path fill="#111111" d="M128 48 L160 80 L128 112 L96 80 Z"/>
+    <path fill="#111111" d="M128 176 L160 208 L128 240 L96 208 Z"/>
+    <path fill="#111111" d="M144 112 L176 144 L144 176 L112 144 Z"/>
+    <path fill="#111111" d="M144 140 L148 144 L144 148 L140 144 Z"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#111111" font-size="12">
+    <text x="960" y="310" text-anchor="middle" font-weight="700">D · THE DISPLACED COLUMN</text>
+    <text x="960" y="328" text-anchor="middle">tripartite stack, witness offset 1u</text>
+  </g>
+</svg>

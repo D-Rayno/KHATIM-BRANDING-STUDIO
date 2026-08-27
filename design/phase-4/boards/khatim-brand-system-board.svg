@@ -1,0 +1,153 @@
+<!-- KHATIM — Brand System Board (DEVELOPMENT CANDIDATE / NOT FINAL) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-label="Khatim brand system board">
+  <rect width="1600" height="1100" fill="#F4F2ED"/>
+  <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#111111">
+    <text x="60" y="56" font-size="22" font-weight="700">KHATIM — BRAND SYSTEM BOARD</text>
+    <text x="60" y="80" font-size="12">construction / states / wordmark / lockup / pattern / responsive — derived from one module</text>
+  </g>
+
+  <!-- 1. CONSTRUCTION -->
+  <g transform="translate(60 120)">
+    <rect width="380" height="320" fill="#FFFFFF" stroke="#111111" stroke-opacity="0.2"/>
+    <text x="20" y="30" font-size="11" letter-spacing="2" fill="#111111">01 · CONSTRUCTION</text>
+    <!-- impression mark -->
+    <g transform="translate(60 60)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+    <g font-family="monospace" font-size="10" fill="#111111">
+      <text x="20" y="240">module u</text>
+      <text x="20" y="258">bbox 8u x 8u</text>
+      <text x="20" y="276">chamfer 2u @ 45°</text>
+      <text x="20" y="294">counter 4u x 4u</text>
+    </g>
+  </g>
+
+  <!-- 2. STATES -->
+  <g transform="translate(460 120)">
+    <rect width="380" height="320" fill="#FFFFFF" stroke="#111111" stroke-opacity="0.2"/>
+    <text x="20" y="30" font-size="11" letter-spacing="2" fill="#111111">02 · STATES</text>
+    <!-- matrix (un-pressed) -->
+    <g transform="translate(60 70)">
+      <path fill="#111111" d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z"/>
+      <text x="128" y="220" font-size="10" font-family="monospace" text-anchor="middle" fill="#111111">matrix</text>
+    </g>
+    <!-- impression (no nuqta) -->
+    <g transform="translate(220 70)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <text x="128" y="220" font-size="10" font-family="monospace" text-anchor="middle" fill="#111111">impression</text>
+    </g>
+    <!-- attested (impression + nuqta) — this is the master -->
+    <g transform="translate(60 250)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+  </g>
+
+  <!-- 3. WORDMARK + LOCKUP -->
+  <g transform="translate(860 120)">
+    <rect width="680" height="320" fill="#FFFFFF" stroke="#111111" stroke-opacity="0.2"/>
+    <text x="20" y="30" font-size="11" letter-spacing="2" fill="#111111">03 · WORDMARK + BILINGUAL LOCKUP</text>
+    <!-- Latin wordmark -->
+    <text x="20" y="100" font-size="44" font-weight="700" font-family="'Helvetica Neue',Arial,sans-serif" letter-spacing="2" fill="#111111">KHATIM</text>
+    <!-- Arabic wordmark -->
+    <text x="20" y="170" font-size="56" font-weight="600" font-family="'Geeza Pro','Tahoma','Segoe UI',sans-serif" fill="#111111">خاتم</text>
+    <!-- lockup with symbol -->
+    <g transform="translate(20 200)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+    <line x1="160" y1="210" x2="160" y2="290" stroke="#111111" stroke-width="1.5"/>
+    <text x="180" y="260" font-size="20" font-weight="700" font-family="'Helvetica Neue',Arial,sans-serif" fill="#111111">KHATIM</text>
+    <text x="180" y="290" font-size="22" font-weight="600" font-family="'Geeza Pro','Tahoma','Segoe UI',sans-serif" fill="#111111">خاتم</text>
+  </g>
+
+  <!-- 4. PATTERN -->
+  <g transform="translate(60 480)">
+    <rect width="900" height="280" fill="#FFFFFF" stroke="#111111" stroke-opacity="0.2"/>
+    <text x="20" y="30" font-size="11" letter-spacing="2" fill="#111111">04 · PATTERN · FIELD OF IMPRESSIONS</text>
+    <g color="#111111">
+      <use href="#imp" x="60" y="80"/>
+      <use href="#imp" x="180" y="80"/>
+      <use href="#imp" x="300" y="80"/>
+      <use href="#imp" x="420" y="80"/>
+      <use href="#imp" x="540" y="80"/>
+      <use href="#imp" x="660" y="80"/>
+      <use href="#imp" x="780" y="80"/>
+      <use href="#imp" x="120" y="200"/>
+      <use href="#imp" x="240" y="200"/>
+      <use href="#imp" x="360" y="200"/>
+      <use href="#imp" x="480" y="200"/>
+      <use href="#imp" x="600" y="200"/>
+      <use href="#imp" x="720" y="200"/>
+    </g>
+  </g>
+
+  <!-- 5. RESPONSIVE -->
+  <g transform="translate(990 480)">
+    <rect width="550" height="280" fill="#FFFFFF" stroke="#111111" stroke-opacity="0.2"/>
+    <text x="20" y="30" font-size="11" letter-spacing="2" fill="#111111">05 · RESPONSIVE</text>
+    <!-- 256 / 64 / 32 / 16 -->
+    <g transform="translate(40 60)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+      <text x="128" y="220" font-size="10" font-family="monospace" text-anchor="middle" fill="#111111">256</text>
+    </g>
+    <g transform="translate(220 140) scale(0.25)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+    <text x="252" y="220" font-size="10" font-family="monospace" text-anchor="middle" fill="#111111">64</text>
+    <g transform="translate(320 172) scale(0.125)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+    <text x="340" y="220" font-size="10" font-family="monospace" text-anchor="middle" fill="#111111">32</text>
+    <!-- 16px proof -->
+    <g transform="translate(420 184) scale(0.0625)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M10 4 L12 6 L12 10 L10 12 L6 12 L4 10 L4 6 L6 4 Z
+               M8 6 L10 8 L8 10 L6 8 Z"/>
+      <path fill="#111111" d="M8 7.5 L8.5 8 L8 8.5 L7.5 8 Z"/>
+    </g>
+    <text x="421" y="220" font-size="10" font-family="monospace" text-anchor="middle" fill="#111111">16</text>
+  </g>
+
+  <!-- 6. RULES -->
+  <g transform="translate(60 800)">
+    <rect width="1480" height="260" fill="#FFFFFF" stroke="#111111" stroke-opacity="0.2"/>
+    <text x="20" y="30" font-size="11" letter-spacing="2" fill="#111111">06 · RULES</text>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#111111" font-size="13">
+      <text x="20" y="70">01  One base unit u. Every measurement a whole or half multiple.</text>
+      <text x="20" y="95">02  The 45° nuqta lattice is load-bearing, never decoration.</text>
+      <text x="20" y="120">03  Expanded fill, never bare stroke. Single decisive silhouette.</text>
+      <text x="20" y="145">04  The impression is the displacement. The nuqta is the attestation. The substrate is the matrix.</text>
+      <text x="20" y="170">05  Monochrome first. Color carries no meaning.</text>
+      <text x="20" y="195">06  The mark is name-agnostic and culture-true at the same time.</text>
+      <text x="20" y="220">07  One verb: the press. No fade, no slide, no bounce.</text>
+    </g>
+  </g>
+
+  <defs>
+    <g id="imp">
+      <path fill="currentColor" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="currentColor" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+  </defs>
+</svg>

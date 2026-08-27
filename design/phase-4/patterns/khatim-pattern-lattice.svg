@@ -1,0 +1,13 @@
+<!-- KHATIM — Pattern: Subterranean Lattice (the grid as invisible proportion) -->
+<!-- DEVELOPMENT CANDIDATE / NOT FINAL. -->
+<!-- The 45° rhombic nuqta lattice, drawn at very low contrast. The pattern is the system's -->
+<!-- construction, not its surface. Used as background only; never on top of content. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-label="Khatim subterranean lattice">
+  <defs>
+    <pattern id="lattice" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M0 0 L64 64 M64 0 L0 64" fill="none" stroke="#111111" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="480" fill="#F4F2ED"/>
+  <rect width="800" height="480" fill="url(#lattice)"/>
+</svg>

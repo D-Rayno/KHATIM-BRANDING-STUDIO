@@ -1,0 +1,16 @@
+<!-- KHATIM — Candidate D "The Displaced Column" — DEVELOPMENT CANDIDATE / NOT FINAL -->
+<!-- A bounded 4u x 12u vertical column of 3 stacked rhombic cells: Party A / Witness / Party B. -->
+<!-- The center cell (the Witness) is horizontally offset by 1u — the displacement. -->
+<!-- u = 16. Column 4u x 12u. Cells 4u x 4u. Witness offset 1u right. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — The Displaced Column (candidate D)</title>
+  <desc id="d">A vertical tripartite column of three rhombic cells on the 45-degree nuqta lattice. The center cell — the Witness — is horizontally displaced by one lattice unit, encoding the state-change as a one-unit offset.</desc>
+  <!-- Party A (top) — 4u x 4u rhombus centered at (128, 80) -->
+  <path fill="currentColor" d="M128 48 L160 80 L128 112 L96 80 Z"/>
+  <!-- Party B (bottom) — 4u x 4u rhombus centered at (128, 208) -->
+  <path fill="currentColor" d="M128 176 L160 208 L128 240 L96 208 Z"/>
+  <!-- Witness (center) — DISPLACED 1u to the right, centered at (144, 144) -->
+  <path fill="currentColor" d="M144 112 L176 144 L144 176 L112 144 Z"/>
+  <!-- perceivable nuqta at the Witness center (1u x 1u on lattice) -->
+  <path fill="currentColor" d="M144 140 L148 144 L144 148 L140 144 Z"/>
+</svg>

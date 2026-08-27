@@ -1,0 +1,25 @@
+<!-- KHATIM — Bilingual Lockup Study A (horizontal pair, mirrored per market) -->
+<!-- DEVELOPMENT CANDIDATE / NOT FINAL. System font fallback. -->
+<!-- Symbol left | Arabic right (RTL) OR Symbol left | Latin right (LTR). This file: LTR. -->
+<!-- Per Agent 04 R1-R4: never translate, always pair; Arabic never smaller than Latin; mirrored; -->
+<!-- shared baseline; symbol + Arabic on same horizontal axis; divider = alif/I echo (tripartite). -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" role="img" aria-label="KHATIM bilingual lockup, LTR">
+  <desc>FONT PLACEHOLDER — DO NOT SHIP. System fonts stand in for final licensed Latin+Arabic faces. Pairing logic (alif=cap=5u) is locked; faces are not. See PHASE-4-RED-TEAM-REVIEW.md Finding 2.</desc>
+  <!-- the symbol, sized so its bbox = 5u (cap height) -->
+  <g transform="translate(40 40)">
+    <path fill="#111111" fill-rule="evenodd"
+          d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+             M128 96 L160 128 L128 160 L96 128 Z"/>
+    <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+  </g>
+  <!-- vertical hairline divider, height 5u (echo of alif/I — the tripartite third pillar) -->
+  <line x1="180" y1="40" x2="180" y2="120" stroke="#111111" stroke-width="2"/>
+  <!-- Arabic wordmark, paired (visually equal weight to Latin) -->
+  <text x="200" y="120" font-family="'Geeza Pro','Tahoma','Segoe UI',sans-serif" font-size="64" font-weight="600" fill="#111111">خاتم</text>
+  <!-- Latin wordmark -->
+  <text x="200" y="60" font-family="'Helvetica Neue','Arial',sans-serif" font-size="40" font-weight="700" letter-spacing="1.5" fill="#111111">KHATIM</text>
+  <!-- divider between Arabic and Latin (subordinate) -->
+  <line x1="400" y1="40" x2="400" y2="120" stroke="#111111" stroke-width="1" stroke-dasharray="2 3"/>
+  <!-- descriptor (optional, used in ceremonial/PPT use only) -->
+  <text x="420" y="64" font-family="'Helvetica Neue','Arial',sans-serif" font-size="14" font-weight="400" fill="#111111">Digital Trust Infrastructure</text>
+</svg>

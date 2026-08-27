@@ -1,0 +1,19 @@
+<!-- KHATIM — Bilingual Lockup Study A (horizontal pair, RTL mirror) -->
+<!-- DEVELOPMENT CANDIDATE / NOT FINAL. -->
+<!-- RTL market: Arabic first (right), symbol center, Latin second (left), mirrored. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" role="img" aria-label="KHATIM bilingual lockup, RTL">
+  <desc>FONT PLACEHOLDER — DO NOT SHIP. System fonts stand in for final licensed faces. See PHASE-4-RED-TEAM-REVIEW.md Finding 2.</desc>
+  <text x="40" y="60" font-family="'Helvetica Neue','Arial',sans-serif" font-size="40" font-weight="700" letter-spacing="1.5" fill="#111111">KHATIM</text>
+  <line x1="220" y1="40" x2="220" y2="120" stroke="#111111" stroke-width="1" stroke-dasharray="2 3"/>
+  <!-- Arabic wordmark first (right side) -->
+  <text x="240" y="120" font-family="'Geeza Pro','Tahoma','Segoe UI',sans-serif" font-size="64" font-weight="600" fill="#111111">خاتم</text>
+  <!-- vertical hairline divider -->
+  <line x1="440" y1="40" x2="440" y2="120" stroke="#111111" stroke-width="2"/>
+  <!-- symbol on the right (RTL) -->
+  <g transform="translate(460 40)">
+    <path fill="#111111" fill-rule="evenodd"
+          d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+             M128 96 L160 128 L128 160 L96 128 Z"/>
+    <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+  </g>
+</svg>

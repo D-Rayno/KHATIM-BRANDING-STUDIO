@@ -1,0 +1,122 @@
+<!-- KHATIM — Application Board: Web Hero + Verification + Certificate + Mobile + Motion (single board) -->
+<!-- DEVELOPMENT CANDIDATE / NOT FINAL. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-label="Khatim application system">
+  <rect width="1600" height="1100" fill="#F4F2ED"/>
+  <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#111111">
+    <text x="60" y="56" font-size="22" font-weight="700">KHATIM — APPLICATION SYSTEM</text>
+    <text x="60" y="80" font-size="12">web hero / verification / certificate / mobile / motion — all built from the impression mark</text>
+  </g>
+
+  <!-- 1. Web hero -->
+  <g transform="translate(60 120)">
+    <rect width="900" height="320" fill="#FFFFFF" stroke="#111111" stroke-opacity="0.2"/>
+    <g transform="translate(60 100)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#111111">
+      <text x="200" y="138" font-size="14" font-weight="700">KHATIM</text>
+      <text x="200" y="200" font-size="40" font-weight="700">A document becomes</text>
+      <text x="200" y="248" font-size="40" font-weight="700">a permanent record.</text>
+      <text x="200" y="280" font-size="14">Digital trust infrastructure. Signature, verification, attestation.</text>
+    </g>
+  </g>
+
+  <!-- 2. Verification record -->
+  <g transform="translate(990 120)">
+    <rect width="550" height="320" fill="#111111"/>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#F4F2ED">
+      <text x="36" y="48" font-size="12" letter-spacing="2">VERIFICATION RECORD</text>
+      <text x="36" y="92" font-size="22" font-weight="700">Document verified</text>
+      <text x="36" y="130" font-size="12">[ hash ]  8A91…7C2E</text>
+      <text x="36" y="156" font-size="12">[ time ]  2026-08-27 14:32</text>
+      <text x="36" y="182" font-size="12">[ state ]  PERMANENT</text>
+      <text x="36" y="208" font-size="12">[ witness ]  KHATIM</text>
+    </g>
+    <g transform="translate(420 110) scale(0.45)">
+      <path fill="#F4F2ED" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#F4F2ED" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+  </g>
+
+  <!-- 3. Certificate -->
+  <g transform="translate(60 480)">
+    <rect width="600" height="380" fill="#FFFFFF" stroke="#111111" stroke-opacity="0.2"/>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#111111">
+      <text x="30" y="44" font-size="11" letter-spacing="2">CERTIFICATE / RECORD OF ATTESTATION</text>
+      <line x1="30" y1="60" x2="570" y2="60" stroke="#111111"/>
+      <text x="30" y="100" font-size="14">This document was witnessed and attested on</text>
+      <text x="30" y="124" font-size="14" font-weight="700">2026-08-27 at 14:32 UTC by Khatim.</text>
+      <text x="30" y="160" font-size="12">Parties</text>
+      <text x="30" y="182" font-size="11" font-family="monospace">[ A ] 8A91…7C2E</text>
+      <text x="30" y="202" font-size="11" font-family="monospace">[ B ] F1D2…83BC</text>
+      <text x="30" y="240" font-size="11" font-family="monospace">hash   7E4A…9D11</text>
+      <text x="30" y="260" font-size="11" font-family="monospace">state  PERMANENT</text>
+    </g>
+    <g transform="translate(360 90) scale(0.5)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+  </g>
+
+  <!-- 4. Mobile (375-equivalent at scale) -->
+  <g transform="translate(720 480)">
+    <rect width="240" height="380" rx="28" fill="#111111"/>
+    <rect x="14" y="14" width="212" height="352" rx="18" fill="#F4F2ED"/>
+    <g transform="translate(80 50) scale(0.35)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#111111">
+      <text x="22" y="180" font-size="14" font-weight="700">Verified</text>
+      <text x="22" y="206" font-size="11" font-family="monospace">[ evidence ]</text>
+      <text x="22" y="232" font-size="11" font-family="monospace">7E4A…9D11</text>
+    </g>
+    <g transform="translate(80 250) scale(0.35)">
+      <path fill="#111111" fill-rule="evenodd"
+            d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+               M128 96 L160 128 L128 160 L96 128 Z"/>
+      <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+    </g>
+    <text x="22" y="350" font-size="10" font-family="monospace" fill="#111111">[ sealed ]</text>
+  </g>
+
+  <!-- 5. Motion strip: one verb: the press -->
+  <g transform="translate(990 480)">
+    <rect width="550" height="380" fill="#FFFFFF" stroke="#111111" stroke-opacity="0.2"/>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#111111">
+      <text x="30" y="44" font-size="11" letter-spacing="2">ONE VERB: THE PRESS</text>
+    </g>
+    <!-- a row of states: matrix -> impression (the press) -->
+    <g transform="translate(60 100)">
+      <g><path fill="#111111" d="M-32 -16 L0 16 L32 -16 L0 -48 Z"/><text x="0" y="60" font-size="10" font-family="monospace" text-anchor="middle" fill="#111111">matrix</text></g>
+      <g transform="translate(120 0)">
+        <path fill="#111111" fill-rule="evenodd" d="M-32 -16 L0 16 L32 -16 L0 -48 Z M-16 -8 L0 0 L16 -8 L0 -16 Z"/>
+        <text x="0" y="60" font-size="10" font-family="monospace" text-anchor="middle" fill="#111111">impression</text>
+      </g>
+      <g transform="translate(240 0)">
+        <path fill="#111111" fill-rule="evenodd" d="M-32 -16 L0 16 L32 -16 L0 -48 Z M-16 -8 L0 0 L16 -8 L0 -16 Z"/>
+        <path fill="#111111" d="M-2 -2 L2 2 L-2 2 L-2 -2 Z"/>
+        <text x="0" y="60" font-size="10" font-family="monospace" text-anchor="middle" fill="#111111">attested</text>
+      </g>
+    </g>
+    <!-- arrow connectors -->
+    <g fill="none" stroke="#111111" stroke-width="1.5">
+      <line x1="100" y1="100" x2="160" y2="100" stroke-dasharray="3 3"/>
+      <line x1="220" y1="100" x2="280" y2="100" stroke-dasharray="3 3"/>
+    </g>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#111111">
+      <text x="30" y="240" font-size="12">State-change is the only verb.</text>
+      <text x="30" y="260" font-size="12">No fades, no slides, no bounces.</text>
+      <text x="30" y="280" font-size="12">Every transition ends in a permanent state.</text>
+    </g>
+  </g>
+</svg>

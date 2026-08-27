@@ -21,6 +21,7 @@
 | D-009 | 2026-08-26 | Phased Positioning Strategy (MVP vs Infrastructure) | APPROVED | IRREVERSIBLE |
 | D-010 | 2026-08-26 | Mandatory Buyer Validation (Suspend final positioning lock) | APPROVED | IRREVERSIBLE |
 | D-011 | 2026-08-26 | Phase 3 exploration outcome: preferred = Displacement Event (EXPLORATION — not locked); secondary = Void Core derivative; killed = Axis Witness mark (layout rule survives) | WORKING | REVERSIBLE |
+| D-012 | 2026-08-27 | Phase 4 takeover verdict: REBUILD identity; lead mark = "The Impression" (Candidate A — chamfered octagon + rhombic counter + nuqta); kill Candidates B/C/D; lock 10 architecture principles | WORKING | REVERSIBLE |
 
 ---
 
@@ -151,6 +152,20 @@
 
 ---
 
+### D-012: Phase 4 Identity Rebuild — "The Impression"
+- **Date:** 2026-08-27
+- **Decision:** Rebuild the Phase 4 identity around a new lead mark, "The Impression" (Candidate A): a bounded chamfered octagon (matrix) on the 45° rhombic nuqta lattice, with a centered 4u rhombic counter (impression) and a single perceivable 1u nuqta at the optical center (attestation). Candidates B (Sealed Field), C (Witnessed Stroke), D (Displaced Column) killed. Ten architecture principles locked.
+- **Evidence:**
+  - Takeover audit verdict: REBUILD, not patch — old open-lattice master failed on silhouette, displacement, 16px construction, and Arabic parity.
+  - Six specialist agents: 4 REBUILD, 2 MODIFY-and-redesign-geometry; all rejected the old master.
+  - Candidate A 14-criteria mean 7.5/10 vs old master ~5.0 (see `design/phase-4/documentation/PHASE-4-DESIGN-DECISION.md`).
+  - Module math verified on the u=16 lattice (all vertices on-grid; 16px provable from same construction).
+- **Alternatives Considered:** B, C, D — killed (see design-decision doc for rationales). Patch the old master — rejected as insufficient.
+- **Implications:** All Phase 4 production (marks, wordmark, pattern, applications) now derives from this single module. Wordmark remains placeholder-type until final faces are licensed. The mark's geometry is locked; the name/color/type/customer-language remain open per the brief.
+- **Reversibility:** REVERSIBLE — Candidate A is a development candidate, not final; reversible before legal/name clearance and final type lock.
+
+---
+
 ## Pending Decisions
 
 | # | Decision Needed | Blocked By | Priority |
@@ -163,6 +178,8 @@
 | P-006 | Tagline | Verbal identity development | MEDIUM |
 | P-007 | Product architecture branding | MVP scope definition | MEDIUM |
 
+> **Phase 4 note (2026-08-27):** P-005 partially advanced — mark *geometry* is locked via D-012 (The Impression, Candidate A), but final trademark-filing geometry is gated on name clearance. P-003 (typography) and P-004 (color) remain open; development candidates exist, none locked.
+
 ---
 
 ## Change Log
@@ -170,3 +187,4 @@
 | Date | Change | Author |
 |------|--------|--------|
 | 2026-08-26 | Initial decision log created with 8 founding decisions | Phase 1 Strategy |
+| 2026-08-27 | D-012 added: Phase 4 identity rebuild (The Impression, Candidate A); 10 architecture principles locked | OpenHands Orchestrator |

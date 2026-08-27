@@ -1,0 +1,14 @@
+<!-- KHATIM — The Impression, App Icon (rounded square substrate for iOS/Android-style tiles) -->
+<!-- Uses the impression octagon centered inside a rounded square tile; the chamfered octagon -->
+<!-- reads as the foreground "seal" against a 22.5%-rounded background. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — App Icon</title>
+  <desc id="d">App icon tile. Rounded square substrate (r 22.5% per platform convention) with the impression mark centered, scaled to 64% of tile.</desc>
+  <rect width="512" height="512" rx="115" ry="115" fill="#111111"/>
+  <g transform="translate(128 128) scale(1)">
+    <path fill="#FFFFFF" fill-rule="evenodd"
+          d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+             M128 96 L160 128 L128 160 L96 128 Z"/>
+    <path fill="#FFFFFF" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+  </g>
+</svg>

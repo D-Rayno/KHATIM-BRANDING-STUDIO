@@ -1,0 +1,11 @@
+<!-- KHATIM — The Impression, Reverse (white-on-black) -->
+<!-- Same construction; uses stroke-free inversion by swapping fill via CSS or direct fill. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — The Impression (reverse)</title>
+  <desc id="d">Reverse-color rendering of the master impression: the substrate is the page (white) and the impression is ink (black). The construction is unchanged.</desc>
+  <rect width="256" height="256" fill="#111111"/>
+  <path fill="#FFFFFF" fill-rule="evenodd"
+        d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+           M128 96 L160 128 L128 160 L96 128 Z"/>
+  <path fill="#FFFFFF" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+</svg>

@@ -204,6 +204,17 @@
 
 New questions raised by visual exploration (Priority 2):
 
-1. **Geometry survival at 16px** — Preferred direction A (Displacement Event) fails 16px as currently drawn; must be re-constructed per Agent 07 module before Phase 4 gate. Status: 🟢 Open — Phase 4 blocker.
-2. **System-level defensibility** — Red team + CD anchored A's defensibility at system level (nuqta discipline + use consistency), not form level. Requires legal review before any lock. Status: 🟢 Open.
+1. **Geometry survival at 16px** — Preferred direction A (Displacement Event) fails 16px as currently drawn; must be re-constructed per Agent 07 module before Phase 4 gate. Status: ✅ **RESOLVED (2026-08-27)** — the Phase 4 rebuild ("The Impression") re-derives geometry from first principles; master at u=16 and 16px native proof draw from the same construction (see `design/phase-4/documentation/PHASE-4-GEOMETRY-SPEC.md`). Verified: all vertices on-grid; 16px counter 8px / walls 4px / chamfer 4px / nuqta 1px — all ≥ sub-pixel floor.
+2. **System-level defensibility** — Red team + CD anchored A's defensibility at system level (nuqta discipline + use consistency), not form level. Requires legal review before any lock. Status: 🟢 Open — pending legal/name clearance before trademark lock.
 3. **Bilingual module parity** — 5u vs 5.5u alif/cap parity; KH-pair micro-compression vs ligature at 16px; Latin tracking survival at UI sizes. Status: 🟢 Open.
+
+---
+
+## Phase 4 Addendum (2026-08-27)
+
+New/open questions raised by the identity rebuild (Priority 2):
+
+1. **Final wordmark typefaces (Latin + Arabic)** — The rebuilt wordmark/lockups ship with **system-font placeholders** (`Helvetica/Arial`, `Tahoma/Segoe UI/Geeza Pro`) tagged `DO NOT SHIP`. The pairing logic (alif height = Latin cap = 5u, shared baseline, mirror per market) is locked; the exact licensed faces are NOT. Red-team Finding 2 requires this be a gated decision before final. Status: 🟢 Open.
+2. **Name clearance (Codegic)** — Remains the gating legal question. Mark geometry is locked (D-012) but final trademark-filing geometry depends on name clearance. Status: 🟢 Open — elevated, gating final lock.
+3. **Customer-facing "Sovereign Witness" language** — The identity is name-agnostic and the per-surface trust language ("permanent record," "witness," "attested") is development-stage; customer-facing wording intentionally not over-committed. Status: 🟢 Open.
+4. **Final color system** — Development candidates exist (monochrome-first, `02-COLOR-CANDIDATE-SYSTEM.md`); none locked. The mark must survive in any single ink. Status: 🟢 Open.

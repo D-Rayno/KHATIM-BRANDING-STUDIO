@@ -1,0 +1,46 @@
+<!-- KHATIM — Pattern: Field of Impressions -->
+<!-- DEVELOPMENT CANDIDATE / NOT FINAL. -->
+<!-- A 45° rhombic lattice of impression marks (matrix + counter + nuqta), one cell in -->
+<!-- a determined cycle is un-pressed (matrix state), the rest are attested (impression). -->
+<!-- The pattern is the brand's surface, not its symbol: it shows the system in action. -->
+<!-- NOTE (Red-team Finding 4): the lone matrix cell at reduced opacity is the intentional -->
+<!-- "awaiting press" record — a deliberate narrative element, not a disabled/artifact tile. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-label="Khatim pattern: field of impressions">
+  <defs>
+    <!-- 8u x 8u impression mark, centered at origin -->
+    <g id="impression">
+      <path fill="currentColor" fill-rule="evenodd"
+            d="M-32 -16 L0 16 L32 -16 L0 -48 Z
+               M-16 -8 L0 0 L16 -8 L0 -16 Z"/>
+      <path fill="currentColor" d="M-2 -2 L2 2 L-2 2 L-2 -2 Z"/>
+    </g>
+    <g id="matrix">
+      <path fill="currentColor" d="M-32 -16 L0 16 L32 -16 L0 -48 Z"/>
+    </g>
+  </defs>
+  <rect width="800" height="480" fill="#F4F2ED"/>
+  <g color="#111111">
+    <!-- row 1 (y center = 40) -->
+    <use href="#impression" x="80" y="40"/>
+    <use href="#impression" x="240" y="40"/>
+    <use href="#impression" x="400" y="40"/>
+    <use href="#impression" x="560" y="40"/>
+    <use href="#impression" x="720" y="40"/>
+    <!-- row 2 (offset) -->
+    <use href="#impression" x="160" y="200"/>
+    <use href="#impression" x="320" y="200"/>
+    <use href="#impression" x="480" y="200"/>
+    <use href="#impression" x="640" y="200"/>
+    <!-- row 3 -->
+    <use href="#impression" x="80" y="360"/>
+    <use href="#impression" x="240" y="360"/>
+    <use href="#impression" x="400" y="360"/>
+    <use href="#impression" x="560" y="360"/>
+    <use href="#impression" x="720" y="360"/>
+  </g>
+  <!-- ONE matrix state (un-pressed) — the only un-attested cell. This is the visual story: -->
+  <!-- the pattern is "field of impressions" with one cell waiting. -->
+  <g color="#111111" opacity="0.18">
+    <use href="#matrix" x="400" y="200"/>
+  </g>
+</svg>

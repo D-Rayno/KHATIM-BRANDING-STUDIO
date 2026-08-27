@@ -1,0 +1,8 @@
+<!-- KHATIM — The Impression, Mark Only (favicon-grade, nuqta dropped at 16-24px) -->
+<!-- At sizes <= 24px the inner nuqta can be omitted without losing the mark. -->
+<!-- The impression alone (no inner nuqta) survives at the smallest sizes. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="geometricPrecision" role="img" aria-label="Khatim impression favicon">
+  <path fill="currentColor" fill-rule="evenodd"
+        d="M10 4 L12 6 L12 10 L10 12 L6 12 L4 10 L4 6 L6 4 Z
+           M8 6 L10 8 L8 10 L6 8 Z"/>
+</svg>

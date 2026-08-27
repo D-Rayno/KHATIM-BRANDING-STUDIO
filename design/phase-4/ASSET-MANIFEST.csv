@@ -1,7 +1,36 @@
 asset,type,status,role
-khatim-displacement-master.svg,vector,development-candidate,primary identity exploration
-khatim-displacement-compact.svg,vector,development-candidate,compact responsive exploration
-khatim-displacement-negative.svg,vector,development-candidate,negative-space study
-khatim-displacement-16px.svg,vector,development-candidate,small-size insurance form
-khatim-brand-system-board.svg,vector,development-candidate,system overview
-khatim-application-system.svg,vector,development-candidate,application proof
+# --- THE IMPRESSION MARK (phase-4 rebuild, takeover-audit replacement) ---
+khatim-impression-master.svg,vector,development-candidate,primary identity mark (canonical 8u module)
+khatim-impression-16px.svg,vector,development-candidate,16px native proof (same construction)
+khatim-impression-reverse.svg,vector,development-candidate,reverse white-on-black mark
+khatim-matrix-state.svg,vector,development-candidate,un-pressed substrate state
+khatim-impression-compact.svg,vector,development-candidate,32-48px responsive mark
+khatim-impression-favicon.svg,vector,development-candidate,favicon-grade mark (nuqta dropped <=24px)
+khatim-app-icon.svg,vector,development-candidate,app-icon tile mark
+khatim-social-avatar.svg,vector,development-candidate,social avatar mark
+# --- PATTERN ---
+khatim-pattern-field-of-impressions.svg,vector,development-candidate,identity surface pattern
+khatim-pattern-lattice.svg,vector,development-candidate,subterranean lattice (low-contrast grid)
+# --- WORDMARK + LOCKUP (FONT PLACEHOLDER - DO NOT SHIP AS FINAL) ---
+khatim-wordmark-latin.svg,vector,development-candidate,latin wordmark study (system font placeholder)
+khatim-wordmark-arabic.svg,vector,development-candidate,arabic wordmark study (system font placeholder)
+khatim-lockup-horizontal-ltr.svg,vector,development-candidate,bilingual lockup LTR (placeholder)
+khatim-lockup-horizontal-rtl.svg,vector,development-candidate,bilingual lockup RTL (placeholder)
+khatim-lockup-tripartite.svg,vector,development-candidate,tripartite witness lockup (placeholder)
+# --- BOARDS ---
+khatim-brand-system-board.svg,vector,development-candidate,rebuilt brand system board
+khatim-application-system.svg,vector,development-candidate,rebuilt application board
+candidate-A-impression-master.svg,vector,archived,lead candidate record
+candidate-A-impression-16px.svg,vector,archived,lead candidate 16px record
+candidate-A-matrix-state.svg,vector,archived,lead candidate matrix-state record
+candidate-B-sealed-field.svg,vector,archived,killed candidate record
+candidate-C-witnessed-stroke.svg,vector,archived,killed candidate record
+candidate-D-displaced-column.svg,vector,archived,killed candidate record
+candidate-comparison.svg,vector,archived,candidate comparison board
+# --- DEPRECATED (previous phase-4 displacement system - superseded by impression build) ---
+khatim-displacement-master.svg,vector,deprecated,superseded - failed takeover audit
+khatim-displacement-compact.svg,vector,deprecated,superseded
+khatim-displacement-negative.svg,vector,deprecated,superseded
+khatim-displacement-16px.svg,vector,deprecated,superseded (0.19px strokes at 16px)
+khatim-brand-system-board.svg,vector,deprecated,superseded board
+khatim-application-system.svg,vector,deprecated,superseded + malformed XML (phantom </rect>)

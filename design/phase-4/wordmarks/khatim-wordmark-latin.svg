@@ -1,0 +1,7 @@
+<!-- KHATIM — Wordmark Study (Latin, system fallback) -->
+<!-- DEVELOPMENT CANDIDATE / NOT FINAL. Final type not licensed. Uses system stack. -->
+<!-- Per Agent 04: severe grotesque, all caps, +3% tracking, cap height = 5u. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="KHATIM wordmark study">
+  <desc>FONT PLACEHOLDER — DO NOT SHIP. Helvetica/Arial stand in for the unlicensed severe-grotesque final face. See PHASE-4-RED-TEAM-REVIEW.md Finding 2.</desc>
+  <text x="0" y="60" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="56" font-weight="700" letter-spacing="2" fill="#111111">KHATIM</text>
+</svg>

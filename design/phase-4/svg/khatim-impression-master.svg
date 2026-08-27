@@ -1,0 +1,11 @@
+<!-- KHATIM — The Impression, Master (DEVELOPMENT CANDIDATE / NOT FINAL) -->
+<!-- Canonical 8u x 8u emblem. Module u = 16. Bounded octagon + rhombic void + nuqta. -->
+<!-- Every vertex on the 45° nuqta lattice. Single evenodd path + inner nuqta path. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — The Impression (master)</title>
+  <desc id="d">A chamfered octagon (the matrix) on the 45-degree rhombic nuqta lattice, with a centered 4u rhombic counter (the impression) and a single perceivable calligraphic nuqta at the optical center (the attestation).</desc>
+  <path fill="currentColor" fill-rule="evenodd"
+        d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+           M128 96 L160 128 L128 160 L96 128 Z"/>
+  <path fill="currentColor" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+</svg>

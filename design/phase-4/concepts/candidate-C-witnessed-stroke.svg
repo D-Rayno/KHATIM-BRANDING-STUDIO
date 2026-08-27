@@ -1,0 +1,17 @@
+<!-- KHATIM — Candidate C "The Witnessed Stroke" — DEVELOPMENT CANDIDATE / NOT FINAL -->
+<!-- A closed octagonal substrate with one 45-degree angular notch cut at the top-right corner -->
+<!-- (the witness mark), and a small calligraphic nuqta at the notch's origin on the lattice. -->
+<!-- u = 16. Octagon bbox 8u x 8u, chamfer 2u. Notch replaces the top-right chamfer. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — The Witnessed Stroke (candidate C)</title>
+  <desc id="d">A chamfered octagon on the 45-degree nuqta lattice with a single 45-degree witness notch cut at the top-right and a calligraphic nuqta diamond placed at the notch's origin.</desc>
+  <!-- octagon with top-right chamfer replaced by a 1u deep 45-degree notch (witness mark) -->
+  <!-- and a small nuqta at the notch origin on the lattice -->
+  <path fill="currentColor" fill-rule="evenodd"
+        d="M160 64
+           L176 64 L192 80
+           L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+           M168 80 L176 80 L168 88 Z"/>
+  <!-- perceivable nuqta placed at the witness-mark origin (1u x 1u on lattice) -->
+  <path fill="currentColor" d="M152 96 L160 104 L152 112 L144 104 Z"/>
+</svg>

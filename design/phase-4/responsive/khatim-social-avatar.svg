@@ -1,0 +1,11 @@
+<!-- KHATIM — The Impression, Social Avatar -->
+<!-- 400x400 viewBox, the impression centered at 80% scale with 10% safe-area padding. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Khatim social avatar">
+  <rect width="400" height="400" fill="#F4F2ED"/>
+  <g transform="translate(72 72)">
+    <path fill="#111111" fill-rule="evenodd"
+          d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+             M128 96 L160 128 L128 160 L96 128 Z"/>
+    <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+  </g>
+</svg>

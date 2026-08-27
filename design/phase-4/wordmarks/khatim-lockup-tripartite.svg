@@ -1,0 +1,22 @@
+<!-- KHATIM — Bilingual Lockup Study C (tripartite flank: symbol as Witness) -->
+<!-- DEVELOPMENT CANDIDATE / NOT FINAL. -->
+<!-- Per Agent 04 Study C: [Arabic] — 2u — [Symbol, 5u square] — 2u — [Latin]; symbol = witness slot. -->
+<!-- Used ceremonially / large format / certificates. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="KHATIM tripartite lockup">
+  <desc>FONT PLACEHOLDER — DO NOT SHIP. System fonts stand in for final licensed faces. See PHASE-4-RED-TEAM-REVIEW.md Finding 2.</desc>
+  <!-- Arabic on the right (RTL preferred; flipped for LTR) -->
+  <text x="20" y="140" font-family="'Geeza Pro','Tahoma','Segoe UI',sans-serif" font-size="96" font-weight="600" fill="#111111">خاتم</text>
+  <!-- vertical hairline divider 1 -->
+  <line x1="240" y1="20" x2="240" y2="180" stroke="#111111" stroke-width="2"/>
+  <!-- symbol in the Witness slot, centered, sized 5u = 80px -->
+  <g transform="translate(280 20)">
+    <path fill="#111111" fill-rule="evenodd"
+          d="M160 64 L192 96 L192 160 L160 192 L96 192 L64 160 L64 96 L96 64 Z
+             M128 96 L160 128 L128 160 L96 128 Z"/>
+    <path fill="#111111" d="M128 120 L136 128 L128 136 L120 128 Z"/>
+  </g>
+  <!-- vertical hairline divider 2 -->
+  <line x1="540" y1="20" x2="540" y2="180" stroke="#111111" stroke-width="2"/>
+  <!-- Latin on the right -->
+  <text x="560" y="100" font-family="'Helvetica Neue','Arial',sans-serif" font-size="56" font-weight="700" letter-spacing="2.5" fill="#111111">KHATIM</text>
+</svg>
