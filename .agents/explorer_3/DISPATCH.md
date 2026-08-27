@@ -1,18 +1,21 @@
-## 2026-08-26T15:13:37Z
-You are Explorer 3 on the Khatim Brand Studio project.
-Your working directory is: /home/rayno/Projects/KHATIM BRAND STUDIO/.agents/explorer_3
-Read ORIGINAL_REQUEST.md at: /home/rayno/Projects/KHATIM BRAND STUDIO/.agents/ORIGINAL_REQUEST.md
+## 2026-08-27T00:09:53Z
+You are an independent Competitive Brand Critic and Vector/Production Geometry Specialist performing an external takeover audit of Phase 4 of the Khatim Brand Studio project.
 
-Task:
-Perform a deep analysis of red team findings, research ingestion, and contrarian perspectives:
-1. /home/rayno/Projects/KHATIM BRAND STUDIO/strategy/RED-TEAM-REVIEW.md
-2. /home/rayno/Projects/KHATIM BRAND STUDIO/strategy/01-RESEARCH-INGESTION.md
-3. /home/rayno/Projects/KHATIM BRAND STUDIO/strategy/OPEN-QUESTIONS.md
+Working directory: /home/rayno/Projects/KHATIM-BRANDING-STUDIO/.agents/explorer_3
 
-Identify and extract:
-- Category clichés to strictly avoid (cybersecurity shields, locks, padlocks, checkmarks, binary glowing nodes, cyber blue, generic fintech swooshes, decorative unearned Arabic calligraphy/ornament).
-- Vulnerabilities, over-abstraction traps, and false differentiation risks.
-- Research insights for candidate Territory 07 (e.g. Sovereign Cryptographic Fabric / Protocol Foundation / Immutable Ledger) and Territory 08 (Radical Frictionless Truth / Anti-Bureaucratic Kinetic Trust / Invisible Zero-Proof).
-- Arabic/Latin typographic and semiotic tensions.
-
-Write your findings to /home/rayno/Projects/KHATIM BRAND STUDIO/.agents/explorer_3/analysis.md and write a self-contained /home/rayno/Projects/KHATIM BRAND STUDIO/.agents/explorer_3/handoff.md. Update your progress.md regularly. Send a message when complete.
+Your task:
+1. Read the original request at `/home/rayno/Projects/KHATIM-BRANDING-STUDIO/.agents/ORIGINAL_REQUEST.md`.
+2. Inspect the complete repository:
+   - Phase 4 SVGs in `design/phase-4/svg/` (master, compact, negative, 16px, board, application system) — inspect raw SVG coordinates, stroke widths, geometry, bounding boxes, scalability down to 16px.
+   - Phase 4 documentation in `design/phase-4/`
+   - Phase 3 studies and SVG files in `design/phase-3/` and `design/phase-3/svg/`
+   - Red team reviews in `strategy/RED-TEAM-REVIEW.md` and `design/phase-3/red-team-final.md`
+   - Competitive research in `research/KHATIM-BRANDING-RESEARCH/03_COMPETITIVE_INTELLIGENCE/` and `strategy/TERRITORY-CRITIQUE.md`
+3. As Competitive Brand Critic & Vector/Production Specialist:
+   - Adversarially challenge the Phase 4 work: Does the "Displacement Event" accidentally look like a generic tech lattice, pixel art, a QR code fragment, a circuit, or a spreadsheet?
+   - Competitive collision: How does it fare against DocuSign, Adobe Sign, Entrust, Sectigo, Digicert, and Codegic's Khatim? Is the mark easily copyable by competitors?
+   - Geometry & production audit: Analyze the SVG constructions. Why did the master mark fail at 16px? Is the compact mark (`khatim-displacement-compact.svg`) geometrically sound? Does the negative-space mark work? What are the mathematical and optical flaws?
+   - Run the 14-criteria evaluation with strict adversarial scrutiny.
+   - Run the "BLACK MARK ON WHITE PAPER" test for 10-year durability.
+   - Formulate your independent verdict recommendation: KEEP, MODIFY, REBUILD, or ABANDON with clear structural rationale.
+4. Output your detailed audit report in `/home/rayno/Projects/KHATIM-BRANDING-STUDIO/.agents/explorer_3/analysis.md` and a summary handoff in `/home/rayno/Projects/KHATIM-BRANDING-STUDIO/.agents/explorer_3/handoff.md`. Communicate back when done.
