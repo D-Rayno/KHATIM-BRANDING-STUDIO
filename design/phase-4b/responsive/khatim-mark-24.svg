@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img">
+  <title>KHATIM mark (compact 24px)</title>
+  <!-- The Witnessed Corner, 24px gutter construction. u=3 grid.
+       Body 2..22 (20px, 2px gutter), 4px top-right notch, 2px nuqta diamond.
+       Phase 4B development — NOT final. -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <path d="M2 2 H22 V22 H2 Z M18 18 H22 V22 H18 Z M19.5 18.5 L21 20 L19.5 21.5 L18 20 Z" />
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">KHATIM candidate C-B — The Witnessed Corner</title>
+  <desc id="d">A solid square seal closed on three corners; the top-right corner is opened by a single permanent subtraction and completed by one 45-degree nuqta diamond. One pressed corner, witnessed.</desc>
+  
+  <path fill="currentColor" fill-rule="evenodd"
+        d="M64 64 L192 64 L192 192 L64 192 Z
+           M160 160 L192 160 L192 192 L160 192 Z"/>
+  
+  <path fill="currentColor" d="M168 160 L176 168 L168 176 L160 168 Z"/>
+</svg>

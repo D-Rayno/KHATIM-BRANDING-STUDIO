@@ -1,0 +1,14 @@
+
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">KHATIM candidate C-D — The Registered Deboss</title>
+  <desc id="d">A square field with an inset offset recessed counter -- a die pressing down and registering a displacement of one unit on the diagonal. The measurable offset is the evidence of the press.</desc>
+  
+  <path fill="currentColor" d="M56 56 L200 56 L200 200 L56 200 Z"/>
+  
+  <path fill="#F4F2ED" d="M96 96 L166 96 L166 166 L96 166 Z"/>
+  
+  <path fill="currentColor" d="M138 106 L146 114 L138 122 L130 114 Z"/>
+</svg>

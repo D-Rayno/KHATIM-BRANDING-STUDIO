@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">KHATIM</title>
+  <desc id="d">The Witnessed Corner: a solid square seal with the top-right corner opened and a nuqta diamond seated in the opened corner. Development candidate from Phase 4B — NOT final.</desc>
+  <!--
+    KHATIM — The Witnessed Corner (Phase 4B development candidate)
+    Geometry (45-deg nuqta lattice, u=16, viewBox 256):
+      - Solid square seal        : x 64..192, y 64..192  (8u x 8u, 128px)
+      - Opened top-right corner  : removed 160..192 x 160..192 (2u x 2u) via evenodd
+      - Nuqta diamond (1u=16)    : seated in the opened corner, center (168,168)
+                                    points (168,160),(176,168),(168,176),(160,168)
+    Meaning: presence -> absence via a single controlled subtraction; the dot's
+    position is functional (it completes the opened corner), echoing the nuqta of
+    Arabic kha (خ) — the distinguishing dot that turns ح into خ at the start of خاتم.
+    Monochrome: currentColor (reverses with zero edits).
+    DO NOT SHIP AS FINAL. Name clearance vs Codegic unresolved; wordmark placeholder.
+  -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <path d="M64 64 H192 V192 H64 Z M160 160 H192 V192 H160 Z M168 160 L176 168 L168 176 L160 168 Z" />
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img">
+  <title>KHATIM social avatar</title>
+  <!-- The Witnessed Corner, social-avatar construction filling the canvas.
+       Body 96..416 (320px), notch 384..416 (32px), 32px nuqta diamond.
+       u=64. To sit on platform avatar canvases. Phase 4B development — NOT final. -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <path d="M96 96 H416 V416 H96 Z M384 384 H416 V416 H384 Z M399 384 L416 401 L399 418 L382 401 Z" />
+  </g>
+</svg>

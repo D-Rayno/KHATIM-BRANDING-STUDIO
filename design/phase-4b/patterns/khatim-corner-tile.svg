@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img">
+  <title>KHATIM opened-corner repeating field</title>
+  <!-- Phase 4B development — NOT final.
+       Repeating opened-corner motif for fabric/foil/edge registration:
+       each tile is one 'witnessed corner.' Used sparingly as a boundary/edge
+       register, never as a dense all-over field. -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <path d="M6 6 H46 V46 H6 Z M38 38 H46 V46 H38 Z" />
+    <path d="M38 0 H46 V8 H38 Z" opacity="0"/>
+  </g>
+</svg>

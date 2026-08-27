@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img">
+  <title>KHATIM opened-corner icon (primary UI micro-gesture)</title>
+  <!-- Phase 4B development — NOT final.
+       The single 'open corner' used as the primary micro-interaction glyph:
+       the corner that 'witnesses' the action. Indicator: the opened corner is
+       the interactive position. Presented here sans nuqta for micro scale;
+       the nuqta returns at larger scales. -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <path d="M6 6 H58 V58 H6 Z M48 48 H58 V58 H48 Z" />
+  </g>
+</svg>

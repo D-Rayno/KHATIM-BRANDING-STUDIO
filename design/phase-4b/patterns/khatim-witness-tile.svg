@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img">
+  <title>KHATIM witness tile pattern</title>
+  <!-- Phase 4B development — NOT final.
+       Tiled full mark at low density for packaging / stationery fields.
+       The opened corner reads as an offset 'witness' each tile. -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <!-- one full mark tile -->
+    <path d="M16 16 H64 V64 H16 Z M52 52 H64 V64 H52 Z M57 52 L60 55 L63 52 L60 49 Z" />
+    <!-- offset mark (second row) for interlock -->
+    <path d="M80 80 H128 V128 H80 Z M116 116 H128 V128 H116 Z M121 116 L124 119 L127 116 L124 113 Z" />
+  </g>
+</svg>

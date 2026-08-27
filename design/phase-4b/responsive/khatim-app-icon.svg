@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img">
+  <title>KHATIM app icon</title>
+  <!-- The Witnessed Corner, app-icon construction. u=8 grid on 64 canvas.
+       Body 6..58 (52px, 6px optical gutter). Notch 48..58 (10px),
+       nuqta 6px diamond seated in it. Phase 4B development — NOT final.
+       Background kept transparent OR as a single brand swatch; not yet decided. -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <path d="M6 6 H58 V58 H6 Z M48 48 H58 V58 H48 Z M52 48 L58 54 L52 60 L46 54 Z" />
+  </g>
+</svg>

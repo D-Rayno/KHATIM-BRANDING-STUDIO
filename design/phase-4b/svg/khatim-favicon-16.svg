@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img">
+  <title>KHATIM</title>
+  <!-- KHATIM favicon — The Witnessed Corner, 16px-native construction.
+       Body 1..15 (14px, 1px optical clearspace), 3px top-right corner notch,
+       1px nuqta diamond seated in it. Crisp half-integer geometry.
+       Phase 4B development — NOT final. -->
+  <g fill="currentColor" fill-rule="evenodd">
+    <path d="M1 1 H15 V15 H1 Z M12 12 H15 V15 H12 Z M13.5 12.5 L14.5 13.5 L13.5 14.5 L12.5 13.5 Z" />
+  </g>
+</svg>

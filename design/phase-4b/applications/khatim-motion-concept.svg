@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" role="img">
+  <title>KHATIM motion principle (the witnessing reveal)</title>
+  <!-- Phase 4B development — CONCEPT (motion principle, not final animation).
+       The single permitted motion: 'the witnessing reveal.' The opened corner
+       closes as the nuqta seats (presence arrives from absence). Opposite and
+       only other move: the reverse —  the cut re-opens (a record is unwitnessed/
+       withdrawn). One verb, two directions. Spring-derived, no bounce overshoot. -->
+  <g fill="currentColor" fill-rule="evenodd" transform="translate(120,60) scale(1.0)">
+    <!-- frame 1: open (awaiting) -->
+    <path d="M6 6 H58 V58 H6 Z M34 34 H58 V58 H34 Z" />
+  </g>
+  <!-- arrow to frame 2 -->
+  <text x="232" y="100" font-family="sans-serif" font-size="30" fill="currentColor">→</text>
+  <g fill="currentColor" fill-rule="evenodd" transform="translate(300,60) scale(1.0)">
+    <!-- frame 2: witnessed (corner closed by nuqta) -->
+    <path d="M6 6 H58 V58 H6 Z M38 38 L50 44 L44 56 L32 50 Z" opacity="0"/>
+    <path d="M6 6 H58 V58 H6 Z M44 46 L54 52 L48 62 L38 56 Z" />
+  </g>
+  <text x="240" y="160" font-family="sans-serif" font-size="16" fill="currentColor" text-anchor="middle">The Witnessing Reveal — one verb, two directions.</text>
+  <text x="240" y="196" font-family="sans-serif" font-size="13" fill="currentColor" text-anchor="middle">dot-absent (awaiting) → dot-seated (witnessed) → or the cut re-opens (withdrawn)</text>
+  <text x="240" y="224" font-family="monospace" font-size="10" fill="currentColor" text-anchor="middle">CONCEPT — spring-derived timing, no overshoot; duration 280–480ms.</text>
+</svg>

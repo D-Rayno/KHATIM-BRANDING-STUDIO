@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img">
+  <title>KHATIM nuqta grid (subterranean security pattern)</title>
+  <!-- Phase 4B development — NOT final.
+       Repeating 45-deg nuqta diamonds on the binding lattice (pitch 2u = 32
+       here; dot = 1u = 8). Subterranean and subordinate: never decorative,
+       used at low opacity as document-security register marks. -->
+  <g fill="currentColor">
+    <path d="M60 56 L64 60 L68 56 L64 52 Z" />
+    <path d="M92 56 L96 60 L100 56 L96 52 Z" />
+    <path d="M28 88 L32 92 L36 88 L32 84 Z" />
+    <path d="M60 88 L64 92 L68 88 L64 84 Z" />
+    <path d="M92 88 L96 92 L100 88 L96 84 Z" />
+    <path d="M124 88 L128 92 L128 84 Z" />
+    <path d="M28 120 L32 124 L36 120 L32 116 Z" />
+    <path d="M60 120 L64 124 L68 120 L64 116 Z" />
+    <path d="M92 120 L96 124 L100 120 L96 116 Z" />
+    <path d="M0 56 L4 60 L0 64 Z" />
+    <path d="M124 56 L128 60 L128 52 Z" />
+    <path d="M0 88 L4 92 L0 96 Z" />
+  </g>
+</svg>

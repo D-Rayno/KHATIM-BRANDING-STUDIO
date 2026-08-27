@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 640" role="img">
+  <title>KHATIM certificate concept</title>
+  <!-- Phase 4B development — CONCEPT SKETCH (NOT final, NOT a legal document).
+       Shows: mark as the seal/anchor, a subterranean nuqta-grid security field
+       at low opacity, and a fingerprint/verification readout region. -->
+  <rect width="480" height="640" fill="none" stroke="currentColor" stroke-width="2"/>
+  <g transform="translate(204,56) scale(0.28)">
+    <g fill="currentColor" fill-rule="evenodd">
+      <path d="M64 64 H192 V192 H64 Z M160 160 H192 V192 H160 Z M168 160 L176 168 L168 176 L160 168 Z" />
+    </g>
+  </g>
+  <!-- nuqta grid security field (low opacity) -->
+  <g fill="currentColor" opacity="0.25">
+    <path d="M60 430 L64 434 L68 430 L64 426 Z"/>
+    <path d="M92 430 L96 434 L100 430 L96 426 Z"/>
+    <path d="M28 462 L32 466 L36 462 L32 458 Z"/>
+    <path d="M60 462 L64 466 L68 462 L64 458 Z"/>
+    <path d="M92 462 L96 466 L100 462 L96 458 Z"/>
+    <path d="M28 494 L32 498 L36 494 L32 490 Z"/>
+    <path d="M60 494 L64 498 L68 494 L64 490 Z"/>
+    <path d="M92 494 L96 498 L100 494 L96 490 Z"/>
+  </g>
+  <text x="240" y="250" font-family="sans-serif" font-size="28" fill="currentColor" text-anchor="middle">VERIFICATION CERTIFICATE</text>
+  <text x="240" y="286" font-family="sans-serif" font-size="16" fill="currentColor" text-anchor="middle">PLACEHOLDER TYPE / LEGAL TEXT TBD — NOT A FINAL DOCUMENT</text>
+  <!-- verification readout -->
+  <g transform="translate(32,520) scale(0.5)">
+    <g fill="currentColor" fill-rule="evenodd">
+      <path d="M6 6 H58 V58 H6 Z M48 48 H58 V58 H48 Z" />
+    </g>
+  </g>
+  <text x="72" y="560" font-family="monospace" font-size="12" fill="currentColor">FINGERPRINT  a3f9…c71</text>
+</svg>

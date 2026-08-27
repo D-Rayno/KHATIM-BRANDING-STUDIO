@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+  <title>KHATIM verification UI concept (the witnessing action)</title>
+  <!-- Phase 4B development — CONCEPT SKETCH (NOT final UI).
+       Demonstrates the nuqta as FUNCTIONAL in product: a document/file with the
+       open-corner marker; on verification the nuqta seats in — dot present =
+       witnessed/verified, dot absent = not yet witnessed. The dot is the state. -->
+  <g fill="currentColor" fill-rule="evenodd" transform="translate(120,90) scale(1.2)">
+    <path d="M6 6 H58 V58 H6 Z M48 48 H58 V58 H48 Z M52 48 L58 54 L52 60 L46 54 Z" />
+  </g>
+  <text x="220" y="120" font-family="sans-serif" font-size="26" fill="currentColor">WITNESSED</text>
+  <text x="220" y="150" font-family="sans-serif" font-size="14" fill="currentColor">The nuqta is seated: this event was witnessed.</text>
+  <!-- not-yet state -->
+  <g fill="currentColor" fill-rule="evenodd" transform="translate(360,90) scale(1.2)">
+    <path d="M6 6 H58 V58 H6 Z M48 48 H58 V58 H48 Z" />
+  </g>
+  <text x="408" y="120" font-family="sans-serif" font-size="20" fill="currentColor">AWAITING</text>
+  <text x="408" y="150" font-family="sans-serif" font-size="12" fill="currentColor">dot absent</text>
+  <text x="20" y="280" font-family="monospace" font-size="12" fill="currentColor">CONCEPT — the dot position is the verification state (mirrors the nuqta of خ)</text>
+</svg>
