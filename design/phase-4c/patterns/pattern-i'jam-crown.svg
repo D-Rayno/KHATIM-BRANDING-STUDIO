@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — I'jam Crown Pattern</title>
+  <desc id="d">Field of nuqta diamonds at the crown register. Verification-state texture.</desc>
+  <rect width="256" height="256" fill="#FFFFFF"/>
+  <g fill="currentColor" opacity="0.08">
+    <path d="M32 32 L40 40 L32 48 L24 40 Z"/>
+    <path d="M96 32 L104 40 L96 48 L88 40 Z"/>
+    <path d="M160 32 L168 40 L160 48 L152 40 Z"/>
+    <path d="M224 32 L232 40 L224 48 L216 40 Z"/>
+    <path d="M64 96 L72 104 L64 112 L56 104 Z"/>
+    <path d="M128 96 L136 104 L128 112 L120 104 Z"/>
+    <path d="M192 96 L200 104 L192 112 L184 104 Z"/>
+    <path d="M32 160 L40 168 L32 176 L24 168 Z"/>
+    <path d="M96 160 L104 168 L96 176 L88 168 Z"/>
+    <path d="M160 160 L168 168 L160 176 L152 168 Z"/>
+    <path d="M224 160 L232 168 L224 176 L216 168 Z"/>
+    <path d="M64 224 L72 232 L64 240 L56 232 Z"/>
+    <path d="M128 224 L136 232 L128 240 L120 232 Z"/>
+    <path d="M192 224 L200 232 L192 240 L184 232 Z"/>
+  </g>
+</svg>

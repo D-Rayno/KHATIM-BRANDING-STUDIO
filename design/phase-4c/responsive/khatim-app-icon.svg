@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — App Icon</title>
+  <desc id="d">App icon tile. Symbol centered on rounded-square container. The container is application geometry, not part of the mark.</desc>
+  <rect width="1024" height="1024" rx="224" ry="224" fill="#111111"/>
+  <g fill="#FFFFFF" transform="translate(384, 384) scale(2)">
+    <path fill-rule="evenodd" d="M124 60 H156 V204 H124 Z M156 96 L156 148 L232 44 Z M156 152 L156 204 L232 208 Z"/>
+    <path d="M140 28 L152 40 L140 52 L128 40 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — Compact Symbol (32–48px)</title>
+  <desc id="d">Compact variant with slightly thicker arms and 2px dot for mid-size applications.</desc>
+  <g fill="currentColor">
+    <path d="M20 6 H28 V42 H20 Z"/>
+    <path d="M28 14 L28 26 L44 6 Z"/>
+    <path d="M28 30 L28 42 L44 40 Z"/>
+    <path d="M24 2 L28 6 L24 10 L20 6 Z"/>
+  </g>
+</svg>

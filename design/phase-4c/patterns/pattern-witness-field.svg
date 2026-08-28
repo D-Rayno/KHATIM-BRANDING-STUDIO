@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — Witness Field Pattern</title>
+  <desc id="d">Scattered F1 marks at varying opacity. Suggests a field of attestations.</desc>
+  <defs>
+    <g id="w">
+      <path fill-rule="evenodd" d="M4 2 H6 V14 H4 Z M6 5 L6 9 L12 2 Z M6 10 L6 14 L12 13 Z"/>
+      <path d="M5 1 L6 2 L5 3 L4 2 Z"/>
+    </g>
+  </defs>
+  <rect width="512" height="512" fill="#FAFAFA"/>
+  <use href="#w" x="40" y="40" opacity="0.08" transform="scale(2)"/>
+  <use href="#w" x="160" y="80" opacity="0.12" transform="scale(3)"/>
+  <use href="#w" x="320" y="40" opacity="0.06" transform="scale(2.5)"/>
+  <use href="#w" x="80" y="200" opacity="0.10" transform="scale(2)"/>
+  <use href="#w" x="240" y="180" opacity="0.14" transform="scale(3.5)"/>
+  <use href="#w" x="400" y="160" opacity="0.08" transform="scale(2)"/>
+  <use href="#w" x="60" y="360" opacity="0.12" transform="scale(3)"/>
+  <use href="#w" x="220" y="340" opacity="0.06" transform="scale(2.5)"/>
+  <use href="#w" x="380" y="380" opacity="0.10" transform="scale(2)"/>
+</svg>

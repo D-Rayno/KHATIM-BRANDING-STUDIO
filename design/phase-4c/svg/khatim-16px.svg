@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — 16px Symbol</title>
+  <desc id="d">Minimum-size variant. Stem and arms emphasized; dot reduced to 1px square for crispness.</desc>
+  <g fill="currentColor">
+    <path d="M7 2 H9 V14 H7 Z"/>
+    <path d="M9 5 L9 9 L15 2 Z"/>
+    <path d="M9 10 L9 14 L15 13 Z"/>
+    <rect x="8" y="1" width="1" height="1"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — Seal Icon</title>
+  <desc id="d">F1 centered in a circular container for document seal application. The circle is application geometry, not the mark.</desc>
+  <circle cx="24" cy="24" r="22" fill="none" stroke="currentColor" stroke-width="2"/>
+  <g fill="currentColor" transform="translate(8, 8) scale(0.666)">
+    <path fill-rule="evenodd" d="M18 8 H30 V40 H18 Z M30 16 L30 28 L46 10 Z M30 32 L30 40 L46 38 Z"/>
+    <path d="M24 4 L28 8 L24 12 L20 8 Z"/>
+  </g>
+</svg>

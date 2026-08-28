@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — Stem Lattice Pattern</title>
+  <desc id="d">Repeating vertical stems at 45-degree diagonal rhythm. Structural texture derived from F1 geometry.</desc>
+  <rect width="256" height="256" fill="#FFFFFF"/>
+  <g stroke="currentColor" stroke-width="16" opacity="0.06">
+    <line x1="32" y1="0" x2="32" y2="256"/>
+    <line x1="96" y1="0" x2="96" y2="256"/>
+    <line x1="160" y1="0" x2="160" y2="256"/>
+    <line x1="224" y1="0" x2="224" y2="256"/>
+  </g>
+  <g stroke="currentColor" stroke-width="8" opacity="0.04">
+    <line x1="0" y1="0" x2="256" y2="256"/>
+    <line x1="0" y1="64" x2="192" y2="256"/>
+    <line x1="64" y1="0" x2="256" y2="192"/>
+  </g>
+</svg>

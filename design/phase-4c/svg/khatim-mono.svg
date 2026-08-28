@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — Monochrome Symbol</title>
+  <desc id="d">One-color native variant using currentColor for maximum flexibility.</desc>
+  <g fill="currentColor">
+    <path fill-rule="evenodd" d="M124 60 H156 V204 H124 Z M156 96 L156 148 L232 44 Z M156 152 L156 204 L232 208 Z"/>
+    <path d="M140 28 L152 40 L140 52 L128 40 Z"/>
+  </g>
+</svg>

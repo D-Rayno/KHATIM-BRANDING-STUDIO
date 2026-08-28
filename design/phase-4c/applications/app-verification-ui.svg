@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 128" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — Verification UI Animation Frames</title>
+  <desc id="d">Four frames of the witnessing reveal: unwitnessed, dot descending, dot seating, witnessed.</desc>
+  <g transform="translate(20, 24)">
+    <g fill="currentColor">
+      <path fill-rule="evenodd" d="M18 8 H30 V40 H18 Z M30 16 L30 28 L46 10 Z M30 32 L30 40 L46 38 Z"/>
+    </g>
+    <text x="24" y="60" text-anchor="middle" font-family="sans-serif" font-size="8" fill="currentColor">UNWITNESSED</text>
+  </g>
+  <g transform="translate(148, 24)">
+    <g fill="currentColor">
+      <path fill-rule="evenodd" d="M18 8 H30 V40 H18 Z M30 16 L30 28 L46 10 Z M30 32 L30 40 L46 38 Z"/>
+      <path d="M24 -4 L28 0 L24 4 L20 0 Z" opacity="0.5"/>
+    </g>
+    <text x="24" y="60" text-anchor="middle" font-family="sans-serif" font-size="8" fill="currentColor">WITNESSING</text>
+  </g>
+  <g transform="translate(276, 24)">
+    <g fill="currentColor">
+      <path fill-rule="evenodd" d="M18 8 H30 V40 H18 Z M30 16 L30 28 L46 10 Z M30 32 L30 40 L46 38 Z"/>
+      <path d="M24 2 L28 6 L24 10 L20 6 Z" opacity="0.75"/>
+    </g>
+    <text x="24" y="60" text-anchor="middle" font-family="sans-serif" font-size="8" fill="currentColor">SEATING</text>
+  </g>
+  <g transform="translate(404, 24)">
+    <g fill="currentColor">
+      <path fill-rule="evenodd" d="M18 8 H30 V40 H18 Z M30 16 L30 28 L46 10 Z M30 32 L30 40 L46 38 Z"/>
+      <path d="M24 4 L28 8 L24 12 L20 8 Z"/>
+    </g>
+    <text x="24" y="60" text-anchor="middle" font-family="sans-serif" font-size="8" fill="currentColor">WITNESSED</text>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="t d">
+  <title id="t">Khatim — Unverified Icon</title>
+  <desc id="d">F1 without dot = unattested/unverified state.</desc>
+  <g fill="currentColor">
+    <path fill-rule="evenodd" d="M18 8 H30 V40 H18 Z M30 16 L30 28 L46 10 Z M30 32 L30 40 L46 38 Z"/>
+  </g>
+</svg>
