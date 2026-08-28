@@ -156,3 +156,35 @@
 | 2026-08-26 | Initial project memory created | Brand Studio |
 | 2026-08-26 | Phase 3 exploration outcome appended (preferred/secondary/killed directions) | OpenHands Orchestrator |
 | 2026-08-27 | Phase 4 takeover outcome appended (REBUILD verdict; The Impression lead; locked principles; module math; production set; red-team pass) | OpenHands Orchestrator |
+
+
+---
+
+## Phase 5A Updates (2026-08-28)
+
+### F1 Status
+- **F1 — The Witnessed Letter** validated and CONFIRMED as canonical mark
+- Weighted validation score: 8.10/10
+- Adversarial defeat attempt: FAILED
+- Verdict: KEEP
+
+### Typography Status
+- **NOT LOCKED** — shortlist only
+- Primary path: Space Grotesk + Tajawal
+- Secondary path: IBM Plex Sans + IBM Plex Arabic
+- Reserve path: Geist + Cairo
+- Commercial reserve: Forma DJR + Forma DJR Arabic
+
+### Color Status
+- **NOT LOCKED** — shortlist only
+- Primary territory: Deep Mineral (slate + mineral teal + pale sage)
+- Secondary territory: Unexpected Premium (obsidian + burnt sienna + copper)
+- Reserve territory: Warm Institutional (umber + terracotta + muted gold)
+
+### Identity Direction
+- **Strongest direction:** Mineral Authority (F1 + Space Grotesk/Tajawal + Deep Mineral)
+- Status: EXPLORATION — not final guidelines
+
+### Open Decisions Updated
+- Typography: moved from NOT SELECTED to SHORTLISTED
+- Color system: moved from NOT SELECTED to SHORTLISTED

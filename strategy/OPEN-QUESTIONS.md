@@ -218,3 +218,15 @@ New/open questions raised by the identity rebuild (Priority 2):
 2. **Name clearance (Codegic)** — Remains the gating legal question. Mark geometry is locked (D-012) but final trademark-filing geometry depends on name clearance. Status: 🟢 Open — elevated, gating final lock.
 3. **Customer-facing "Sovereign Witness" language** — The identity is name-agnostic and the per-surface trust language ("permanent record," "witness," "attested") is development-stage; customer-facing wording intentionally not over-committed. Status: 🟢 Open.
 4. **Final color system** — Development candidates exist (monochrome-first, `02-COLOR-CANDIDATE-SYSTEM.md`); none locked. The mark must survive in any single ink. Status: 🟢 Open.
+
+
+### 7. What color territory should Khatim own?
+
+**Why it matters:** Color is the most immediate brand signal. The category is saturated with blue and purple.
+
+| Dimension | Detail |
+|---|---|
+| **Risk level** | 🟡 Strategic |
+| **Blocking** | Final visual identity |
+| **Owner** | Brand Studio / Phase 5B |
+| **Status** | SHORTLISTED — 3 territories identified, buyer validation required |

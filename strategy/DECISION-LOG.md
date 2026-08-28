@@ -188,3 +188,35 @@
 |------|--------|--------|
 | 2026-08-26 | Initial decision log created with 8 founding decisions | Phase 1 Strategy |
 | 2026-08-27 | D-012 added: Phase 4 identity rebuild (The Impression, Candidate A); 10 architecture principles locked | OpenHands Orchestrator |
+
+
+---
+
+## D-013: F1 Identity Validation — KEEP
+
+- **Date:** 2026-08-28
+- **Decision:** F1 "The Witnessed Letter" passes formal identity challenge. KEEP as canonical mark.
+- **Score:** 8.10/10 weighted
+- **Adversarial review:** PASS (defeat attempt failed)
+- **Reversibility:** REVERSIBLE (but requires new gate verdict to modify geometry)
+- **Rationale:** F1 is the strongest mark produced by the project. It is structurally sound, culturally authentic, internationally viable, and system-extensible. The mark does not require rebuild; the system around it needs development.
+
+## D-014: Typography Shortlist
+
+- **Date:** 2026-08-28
+- **Decision:** Three type pairings shortlisted. NONE locked.
+- **Primary:** Space Grotesk + Tajawal
+- **Secondary:** IBM Plex Sans + IBM Plex Arabic
+- **Reserve:** Geist + Cairo
+- **Reversibility:** FULLY REVERSIBLE
+- **Gating:** Buyer validation + license verification
+
+## D-015: Color Territory Shortlist
+
+- **Date:** 2026-08-28
+- **Decision:** Three color territories shortlisted. NONE locked.
+- **Primary:** Deep Mineral (slate + mineral teal + pale sage)
+- **Secondary:** Unexpected Premium (obsidian + burnt sienna + copper)
+- **Reserve:** Warm Institutional (umber + terracotta + muted gold)
+- **Reversibility:** FULLY REVERSIBLE
+- **Gating:** Buyer validation + CMYK/print testing
